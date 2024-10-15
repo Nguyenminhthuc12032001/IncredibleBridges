@@ -1,0 +1,558 @@
+* {
+  font-family: 'Lato', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border-radius: 0 !important;
+}
+
+.bridge-intro {
+  background-color: #212529;
+  color: white;
+  padding: 20px;
+}
+
+.App {
+  text-align: center;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  z-index: 1000;
+  width: 100%;
+  border-bottom: 1px solid white;
+}
+
+.navbar-nav {
+  display: flex;
+}
+
+.nav-item {
+  flex: 1;
+}
+
+.filter {
+  padding: 0;
+  width: 100%;
+  border: none;
+}
+
+.dropdown-item {
+  text-align: center;
+}
+
+.dropdown-item:hover {
+  background-color: #212529;
+  color: white;
+}
+
+.con-img-main {
+  width: 100%;
+  height: 60vh;
+  background-image: url('https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963103/1_xgclku.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  font-size: 1.5em;
+  text-shadow: 0.5px 0.5px 5px #212529;
+  position: relative;
+}
+
+.con-img-main div {
+  color: white;
+  width: 70%;
+  padding-top: 10vh;
+}
+
+.con-img-main .btn {
+  color: white;
+  width: 150px;
+  font-weight: bold;
+  bottom: 0;
+  position: absolute;
+  border: 1px solid white;
+  text-shadow: 1px 1px 5px #212529;
+}
+
+.con-img-main .btn:hover {
+  color: #212529;
+  background-color: white;
+  text-shadow: none;
+}
+
+.title {
+  font-size: 1em;
+  font-weight: bolder;
+  text-shadow: 2px 2px 10px #212529 !important;
+}
+
+@media (max-width: 1200px),
+(max-height: 600px) {
+  .con-img-main p {
+    display: none;
+  }
+}
+
+.row {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.btn {
+  border-radius: 0;
+  text-shadow: none;
+}
+
+h1,
+h2 {
+  font-weight: bold;
+  padding: 10px 25px;
+  margin-bottom: 0;
+}
+
+hr {
+  margin: 0 auto;
+  padding: 0;
+  border: none;
+  height: 4px;
+  background-color: #212529;
+  width: 20%;
+  opacity: 1;
+  border-radius: 2px;
+}
+
+#mostFamous {
+  scroll-margin-top: 50px;
+}
+
+.con {
+  width: 100%;
+  margin-top: 55px;
+}
+
+.con-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.form-contact {
+  background-color: whitesmoke;
+  box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.5);
+  padding: 0;
+}
+
+.detail-contact {
+  margin: 10px auto;
+}
+
+label[for="contact"] {
+  background-color: #212529;
+  color: white;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.form-contact input,
+.form-contact textarea {
+  border-radius: 0;
+  border: 1px solid #212529;
+}
+
+textarea {
+  height: 10vh;
+}
+
+input[type="submit"],
+input[type="reset"] {
+  border: 0;
+}
+
+.input {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.form-description {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.5);
+  padding: 0;
+  height: 80vh;
+}
+
+.form-description div {
+  padding: 0;
+}
+
+.img-description {
+  width: 100%;
+  object-fit: cover;
+  height: 100%;
+  margin: 0;
+}
+
+.con-bnt-form {
+  position: relative;
+  padding-bottom: 50px !important;
+  height: 100%;
+  padding: 0;
+}
+
+.bnt-form {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  z-index: 9999;
+}
+
+.con-list {
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.con-search {
+  width: 60%;
+  margin: 0 auto;
+}
+
+button {
+  border: none;
+}
+
+.input-group {
+  width: 60%;
+  margin: 0 auto;
+}
+
+input.form-control:hover,
+textarea:hover {
+  box-shadow: 0 0 10px rgba(33, 37, 41, 0.5);
+}
+
+input.form-control:focus,
+textarea:focus {
+  box-shadow: 0 0 10px rgba(33, 37, 41, 0.5) !important;
+  outline: none;
+}
+
+li {
+  list-style-type: none;
+  text-align: left;
+  padding-right: 20px;
+}
+
+@media (max-width: 576px) {
+  .card {
+    padding: 0;
+    margin: 0 !important;
+  }
+}
+
+@media (max-width: 991px) {
+  .form-description {
+    width: 100% !important;
+    height: 80%;
+  }
+
+  .form-description div {
+    height: 50% !important;
+  }
+
+  .form-detail {
+    width: 100% !important;
+    height: 80% !important;
+    position: relative;
+  }
+
+  .list-description {
+    height: 40% !important;
+    overflow-y: auto;
+  }
+
+  .AboutUs-body {
+    width: 100% !important;
+    margin: 0 auto;
+  }
+}
+
+.list-description {
+  height: 80%;
+  overflow-y: auto;
+}
+
+.card {
+  margin: 20px auto;
+  border: none;
+  height: 300px;
+}
+
+.card-img-bottom {
+  border-radius: 0;
+  width: 100%;
+  height: 70%;
+  object-fit: cover;
+}
+
+.card-body {
+  background-color: #212529;
+  color: white;
+  width: 100%;
+  padding: 0;
+  height: 20%;
+}
+
+.titile-card {
+  background-color: #212529;
+  color: white;
+  width: 100%;
+  height: 35% !important;
+  font-size: larger;
+  font-weight: bolder;
+}
+
+.img-detail {
+  width: 100%;
+  height: 80vh;
+  object-fit: cover;
+}
+
+h5 {
+  padding: 10px;
+}
+
+.img-Carousel {
+  width: 100%;
+  height: 50vh !important;
+  object-fit: cover;
+}
+
+.form-detail, .form-FAQ {
+  width: 50%;
+  height: 60%;
+  position: relative;
+  background-color: whitesmoke;
+  box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-direction: column;
+}
+
+.form-siteMap{
+  width: 90%;
+  height: 70vh;
+  position: relative;
+  background-color: #212529;
+  color: white;
+  text-align: left;
+  border-radius: 20px !important;
+  margin: 100px 0;
+}
+.body-siteMap {
+  height: calc(100% - 100px);
+  overflow: auto;
+  width: 100%;
+}
+
+.title-siteMap{
+  border-top-left-radius: 20px !important;
+  border-top-right-radius: 20px !important;
+}
+
+.btn-detail {
+  width: 10%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 9998;
+}
+
+.btn-FAQ {
+  width: 10%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+}
+
+.list-detail {
+  flex-grow: 1;
+  overflow-y: auto;
+  padding: 0 !important;
+}
+
+
+.list-detail h4 {
+  font-weight: bolder;
+  text-align: center;
+}
+
+.list-detail li {
+  padding: 20px 30px;
+}
+
+.btnDetail {
+  width: 150px;
+}
+
+h6 {
+  font-weight: bolder;
+  margin-bottom: 0;
+  padding: 2% 0;
+}
+
+span {
+  color: #dc3545 !important;
+}
+
+.imgAboutUs {
+  width: 100%;
+  height: 40vh;
+  background-image: url('../public/aboutus/main.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  font-size: 2.5em;
+  align-items: center;
+  color: white;
+}
+
+.AboutUs-body {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 5em;
+}
+
+h3 {
+  font-weight: bolder;
+}
+
+.box-text {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.imgDetail {
+  width: 100%;
+  height: 40vh;
+  background-image: url('../public/bridge/bridge.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  font-size: 2.5em;
+  text-shadow: 5px 5px 50px #212529;
+  align-items: center;
+  color: white;
+  position: relative;
+}
+
+.imgDetail button {
+  color: white;
+  width: 150px;
+  font-weight: bold;
+  bottom: 0;
+  position: absolute;
+  border: 1px solid white;
+  text-shadow: 1px 1px 5px #212529;
+}
+
+.imgDetail button:hover {
+  color: #212529;
+  background-color: white;
+  text-shadow: none;
+}
+
+.summary {
+  width: 100%;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.summary h4 {
+  font-weight: bolder;
+}
+
+.footer {
+  width: 100%;
+  background-color: #212529;
+  color: white;
+  padding: 20px;
+  padding-bottom: 50px;
+}
+
+.inputMail {
+  width: 80%;
+  height: 40px;
+  border: none;
+  background-color: whitesmoke;
+  padding: 10px;
+}
+
+.inputMail:hover {
+  box-shadow: 0 0 10px whitesmoke;
+}
+
+.inputMail:focus {
+  box-shadow: 0 0 10px whitesmoke;
+  outline: none;
+}
+
+.btnSub {
+  width: 80%;
+}
+
+.item-footer {
+  text-align: left;
+}
+
+.dateTime {
+  width: 100%;
+  padding: 0;
+  position: fixed;
+  bottom: 0;
+  height: 50px;
+  line-height: 50px;
+  background-color: #212529;
+  color: white;
+  border-top: 1px solid white;
+  z-index: 999;
+}
+
+.footer .body {
+  display: flex;
+  align-items: center;
+}
+
+.contentFooter {
+  padding-bottom: 20px;
+}
+
+.address {
+  padding: 10px 0px;
+}
+
+.logoAptech{
+  width: 40%;
+}

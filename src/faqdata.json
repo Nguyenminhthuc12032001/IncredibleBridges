@@ -1,0 +1,35 @@
+
+    [
+        {
+            "question": "What is the purpose of this website?",
+            "answer": "This website is dedicated to showcasing famous bridges around the world, providing detailed information about their history, architecture, cultural significance, and more."
+        },
+        {
+            "question": "How can I find information about a specific bridge?",
+            "answer": "You can navigate through the list of bridges on the homepage or use the search feature to find information about a specific bridge."
+        },
+        {
+            "question": "Are the details of each bridge accurate?",
+            "answer": "We strive to provide accurate and up-to-date information. However, if you find any discrepancies, please let us know."
+        },
+        {
+            "question": "Can I contribute information about a bridge?",
+            "answer": "Yes, we welcome contributions! Please contact us with any information you would like to share."
+        },
+        {
+            "question": "Is there a mobile version of this website?",
+            "answer": "Yes, our website is fully responsive and can be accessed on mobile devices."
+        },
+        {
+            "question": "How can I contact support?",
+            "answer": "You can reach us through the 'Contact Us' page, where you can fill out a form or find our email address."
+        },
+        {
+            "question": "Are there any events or festivals related to the bridges?",
+            "answer": "Yes, many bridges host events and festivals throughout the year. Check the specific bridge's page for details."
+        },
+        {
+            "question": "Where can I find images of the bridges?",
+            "answer": "Images of the bridges can be found in the gallery section of each bridge's detailed page."
+        }
+    ]

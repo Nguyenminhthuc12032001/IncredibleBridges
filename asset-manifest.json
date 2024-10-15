@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/eproject/static/css/main.7f4bad29.css",
+    "main.js": "/eproject/static/js/main.72f9e9f4.js",
+    "static/js/453.15d5dd85.chunk.js": "/eproject/static/js/453.15d5dd85.chunk.js",
+    "static/media/main.jpg": "/eproject/static/media/main.efe67c8094f1007367d6.jpg",
+    "static/media/bridge.jpg": "/eproject/static/media/bridge.a8868bc4691e8ba8f141.jpg",
+    "index.html": "/eproject/index.html",
+    "main.7f4bad29.css.map": "/eproject/static/css/main.7f4bad29.css.map",
+    "main.72f9e9f4.js.map": "/eproject/static/js/main.72f9e9f4.js.map",
+    "453.15d5dd85.chunk.js.map": "/eproject/static/js/453.15d5dd85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f4bad29.css",
+    "static/js/main.72f9e9f4.js"
+  ]
+}
