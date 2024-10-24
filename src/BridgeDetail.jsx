@@ -7,44 +7,37 @@ import StraightenIcon from '@mui/icons-material/Straighten';
 import HeightIcon from '@mui/icons-material/Height';
 import TerrainIcon from '@mui/icons-material/Terrain';
 import CategoryIcon from '@mui/icons-material/Category';
-import SummarizeIcon from '@mui/icons-material/Summarize';
 import PublicIcon from '@mui/icons-material/Public';
+import ArrowRightAltIcon from '@mui/icons-material/ArrowRightAlt';
 
-
-
-
-
-function BridgeDetail({ faq, detail, showDetail, showFAQ, Close }) {
+function BridgeDetail({ faq, detail, showDetail, showFAQ, Close, handleOpen }) {
     const [bridgeData, setBridgeData] = useState(null);
 
-    // Khi component render, lấy dữ liệu từ localStorage
+    // Load bridge data from localStorage when the component mounts
     useEffect(() => {
         const savedBridgeData = localStorage.getItem('bridgeData');
         if (savedBridgeData) {
-            setBridgeData(JSON.parse(savedBridgeData));
+            setBridgeData(JSON.parse(savedBridgeData)); // Parse and set the bridge data
         }
-    }, []);
+    }, []);  // Empty dependency array means this runs only on component mount
 
+    // If bridge data is not available, display loading
     if (!bridgeData) {
         return <p>Loading...</p>;
     }
 
     return (
         <div className="con">
-            <div className="imgDetail">
-                <h1 className="title">{bridgeData.name}<br />({bridgeData.continent} <PublicIcon style={{ fontSize: '1em', filter: 'drop-shadow(5px 5px 10px #212529)' }} />)</h1>
-
-                <button className="btn" onClick={showDetail}>Detail</button>
+            {/* Display the bridge's main image and summary */}
+            <div className="imgDetail" style={{ backgroundImage: `url(${bridgeData.imgMain})` }}>
+                <button onClick={showDetail}>
+                    <h1>{bridgeData.name}<br />({bridgeData.continent} <PublicIcon />)<ArrowRightAltIcon className="arrow-icon" fontSize="large" /></h1>
+                    <p style={{ fontSize: '1.2em' }}>"{bridgeData.summary}"</p>
+                </button>
             </div>
 
-
-            <div className="summary">
-                <p>
-                    <h2><SummarizeIcon style={{ fontSize: '1em' }} /> Summary:</h2> <h4>{bridgeData.summary}</h4>
-                </p>
-            </div>
-
-            <div id="mostFamous" style={{ backgroundColor: '#212529', color: 'white' }}>
+            <div id="mostFamous">
+                {/* Bridge details like location, year, length, height, etc. */}
                 <div className="row">
                     <h6 className="col-6 col-md-4 col-lg-2 col-xl-2">
                         <LocationOnIcon /> Location: <span>{bridgeData.location}</span>
@@ -67,6 +60,7 @@ function BridgeDetail({ faq, detail, showDetail, showFAQ, Close }) {
                 </div>
 
                 <div className="row">
+                    {/* Display Google Map iframe */}
                     <div className="col-12 col-md-4 col-lg-4 col-xl-4 col-xll-4">
                         <iframe
                             src={bridgeData.map}
@@ -75,38 +69,62 @@ function BridgeDetail({ faq, detail, showDetail, showFAQ, Close }) {
                             loading="lazy"
                             referrerPolicy="no-referrer-when-downgrade">
                         </iframe>
-
                     </div>
+
+                    {/* Image carousel with slideshow functionality */}
                     <div id="demo" className="col-12 col-md-4 col-lg-4 col-xl-4 col-xll-4 carousel slide" data-bs-ride="carousel">
                         {/* Indicators/dots */}
                         <div className="carousel-indicators">
-                            <button type="button" data-bs-target="#demo" data-bs-slide-to="0" className="active"></button>
-                            <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
-                            <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
+                            {bridgeData.img.map((_, index) => (
+                                <button
+                                    key={index}
+                                    type="button"
+                                    data-bs-target="#demo"
+                                    data-bs-slide-to={index}
+                                    className={index === 0 ? "active" : ""}
+                                ></button>
+                            ))}
                         </div>
 
                         {/* The slideshow/carousel */}
                         <div className="carousel-inner">
-                            <div className="carousel-item active">
-                                <img src={`${process.env.PUBLIC_URL}/bridge/bridge.jpg`} alt={bridgeData.name} className="d-block img-Carousel" style={{ width: '100%' }} />
-                            </div>
-                            <div className="carousel-item">
-                                <img src={`${process.env.PUBLIC_URL}/bridge/bridge.jpg`} alt={bridgeData.name} className="d-block img-Carousel" style={{ width: '100%' }} />
-                            </div>
-                            <div className="carousel-item">
-                                <img src={`${process.env.PUBLIC_URL}/bridge/bridge.jpg`} alt={bridgeData.name} className="d-block img-Carousel" style={{ width: '100%' }} />
-                            </div>
+                            {bridgeData.img.map((imgUrl, index) => (
+                                <div
+                                    key={index}
+                                    className={`carousel-item ${index === 0 ? "active" : ""}`}
+                                >
+                                    <img
+                                        src={imgUrl}
+                                        alt={`Bridge ${index + 1}`}
+                                        className="d-block img-Carousel"
+                                        style={{ width: "100%" }}
+                                        loading="lazy"
+                                        onClick={() => handleOpen(imgUrl)}
+                                    />
+                                </div>
+                            ))}
                         </div>
 
-                        {/* Left and right controls/icons */}
-                        <button className="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
+                        {/* Carousel controls */}
+                        <button
+                            className="carousel-control-prev"
+                            type="button"
+                            data-bs-target="#demo"
+                            data-bs-slide="prev"
+                        >
                             <span className="carousel-control-prev-icon"></span>
                         </button>
-                        <button className="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
+                        <button
+                            className="carousel-control-next"
+                            type="button"
+                            data-bs-target="#demo"
+                            data-bs-slide="next"
+                        >
                             <span className="carousel-control-next-icon"></span>
                         </button>
                     </div>
 
+                    {/* Video iframe */}
                     <div className="col-12 col-md-4 col-lg-4 col-xl-4 col-xll-4">
                         <iframe
                             className="img-Carousel"
@@ -121,6 +139,8 @@ function BridgeDetail({ faq, detail, showDetail, showFAQ, Close }) {
 
                 </div>
             </div>
+
+            {/* Display additional detail and FAQ sections */}
             {detail && <Detail Close={Close} bridgeData={bridgeData} showFAQ={showFAQ} />}
             {faq && <FAQ Close={Close} bridgeData={bridgeData} />}
 

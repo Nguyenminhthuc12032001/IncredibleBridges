@@ -1,5 +1,16 @@
 [
     {
+        "imgHome": {
+            "img": [
+                "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729008010/1_qhk2xv.jpg",
+                "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963388/1_gpuc43.jpg",
+                "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963607/1_m8qsjb.jpg",
+                "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963426/1_r6l3fz.jpg",
+                "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963299/1_rrt0b6.jpg"
+            ]
+        }
+    },
+    {
         "id": 1,
         "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10239.959357503172!2d14.401136917382814!3d50.086477100000025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470b94e5e58eb59f%3A0x75209738d1d3b126!2zQ-G6p3UgS2FybA!5e0!3m2!1svi!2s!4v1728721227363!5m2!1svi!2s",
         "name": "Charles Bridge",
@@ -613,14 +624,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/XS1MF7G31vM",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963382/1_sczc99.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963349/2_kmfeer.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963382/1_sczc99.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963349/2_kmfeer.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963352/3_daxpkf.avif",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963356/4_cyu4m4.webp",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963358/5_qu2tk3.webp"
         ]
     },
     {
@@ -676,14 +687,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/uc2J1tn74bc",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963383/1_mzbah3.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963358/2_wn0iby.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963383/1_mzbah3.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963358/2_wn0iby.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963360/3_pqgizt.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963358/4_lhmc73.webp",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963360/5_o2irpk.jpg"
         ]
     },
     {
@@ -738,14 +749,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/7zPWfDtulJQ",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963388/1_gpuc43.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963362/3_qx03bk.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963388/1_gpuc43.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963362/3_qx03bk.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963362/5_l68alg.webp",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963362/4_vsqxu3.webp",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963360/2_frt6w9.webp"
         ]
     },
     {
@@ -800,14 +811,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/YOaQsTGUDVQ",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963393/1_tpsn7k.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963373/5_ofy2v6.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963393/1_tpsn7k.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963370/4_n637vf.webp",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963365/2_gvyotn.avif",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963364/3_j5cyua.avif",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963373/5_ofy2v6.jpg"
         ]
     },
     {
@@ -862,14 +873,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/JPVRdR4EKSY",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963385/1_jk2ifv.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963387/5_ook4vt.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963385/1_jk2ifv.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963387/5_ook4vt.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963382/4_xgseeo.webp",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963380/3_aqkg9n.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963377/2_gq2ly9.webp"
         ]
     },
     {
@@ -924,14 +935,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/uBZptrY0UB8",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963408/1_nzxoae.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963396/2_ovse6k.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963408/1_nzxoae.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963396/2_ovse6k.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963389/4_dzqonh.webp",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963389/5_szgoyd.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963388/3_b7yhsi.webp"
         ]
     },
     {
@@ -986,14 +997,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/dRWMZ5Wt_GI",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963399/1_o5uopw.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963399/5_h47cmm.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963399/1_o5uopw.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963399/5_h47cmm.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963396/4_savv3k.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963393/3_vo3fux.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963391/2_kq0j0k.jpg"
         ]
     },
     {
@@ -1048,14 +1059,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/RymhvzHbbsY",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729008010/1_qhk2xv.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729008001/4_mrg2gc.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729008010/1_qhk2xv.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729008001/4_mrg2gc.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729007394/5_c4cntm.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729007390/3_h0a5oq.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729007389/2_w6g9uh.jpg"
         ]
     },
     {
@@ -1111,14 +1122,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/p7bLPsQHv1o",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963426/1_r6l3fz.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963405/3_hejkyw.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963426/1_r6l3fz.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963405/3_hejkyw.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963404/5_ej3tjo.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963404/4_j6frqb.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963401/2_kmvmjw.jpg"
         ]
     },
     {
@@ -1173,14 +1184,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/Ad6GK-AogOU",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963409/1_vihopl.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963409/5_gkkqvl.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963409/1_vihopl.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963409/5_gkkqvl.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963408/4_tfjhap.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963407/2_u83hds.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963407/3_npza67.jpg"
         ]
     },
     {
@@ -1235,14 +1246,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/QwpzFzDUufY",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963446/1_x6eanm.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963419/5_xo1ryi.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963446/1_x6eanm.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963419/5_xo1ryi.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963414/2_qhssf3.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963411/4_trdlqi.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963410/3_hnhse2.jpg"
         ]
     },
     {
@@ -1297,14 +1308,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/BOdIp4HdHOc",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963448/1_swln8o.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963422/4_dbbs7v.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963448/1_swln8o.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963422/4_dbbs7v.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963422/5_rqulsy.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963418/2_wd3sso.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963417/3_nj7wty.jpg"
         ]
     },
     {
@@ -1359,14 +1370,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/Gr7lSmGVl_I",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963430/1_inuexi.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963433/4_et0zla.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963430/1_inuexi.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963433/4_et0zla.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963431/5_szau3u.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963428/3_xrtojl.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963425/2_d6vgwt.webp"
         ]
     },
     {
@@ -1421,14 +1432,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/sf-qYFlX_EI",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963452/1_cfxu6l.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963441/4_j6afqh.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963452/1_cfxu6l.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963441/4_j6afqh.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963440/5_uxdwtg.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963438/2_hclpoi.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963432/3_zcnpaw.webp"
         ]
     },
     {
@@ -1483,14 +1494,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/9GLBIqvGORc",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963444/1_tfsuup.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963446/5_ndexd3.webp",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963444/1_tfsuup.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963446/5_ndexd3.webp",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963445/4_k2b5wc.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963443/3_ztj7se.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963443/2_kcfys0.jpg"
         ]
     },
     {
@@ -1545,14 +1556,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/jehP2SdDg6s",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963457/1_bqjp4s.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963452/5_njtppd.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963457/1_bqjp4s.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963452/5_njtppd.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963450/2_xx15fd.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963450/4_ionprq.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963448/3_jgzpdk.avif"
         ]
     },
     {
@@ -1607,14 +1618,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/EPd2w5d_qAk",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729008549/1_yfyatj.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963455/2_hhvraz.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729008549/1_yfyatj.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963455/2_hhvraz.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963457/3_kuudlv.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963455/5_cbzin1.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963454/4_znkk4m.jpg"
         ]
     },
     {
@@ -1669,14 +1680,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/krY8sOaEZxE",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963461/1_htq8ab.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963460/2_lnxb0s.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963461/1_htq8ab.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963460/2_lnxb0s.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963460/5_ap8xzk.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963458/4_fs6o9k.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963458/3_lab1cq.jpg"
         ]
     },
     {
@@ -1731,14 +1742,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/qfPt8J95R-A",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729008690/1_giby77.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963472/4_foft3a.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729008690/1_giby77.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963472/4_foft3a.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963464/3_d5nj70.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963463/5_sjpqb0.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963460/2_y9weih.avif"
         ]
     },
     {
@@ -1793,14 +1804,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/-WjQG_QxcEM",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963468/1_rlx6ch.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963464/2_icez6b.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963468/1_rlx6ch.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963464/2_icez6b.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963467/3_xmxhl6.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963466/4_ygll6k.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963469/5_dnzdvo.jpg"
         ]
     },
     {
@@ -1855,14 +1866,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/GEUqOuGpwqA",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729008950/1_yoxlxr.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729008924/4_uuipf3.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729008950/1_yoxlxr.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729008924/4_uuipf3.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963473/5_tfpvko.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963472/3_nzqexj.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963470/2_g8sxc1.jpg"
         ]
     },
     {
@@ -1917,20 +1928,20 @@
             }
         ],
         "video": "https://www.youtube.com/embed/HYzdwJGJEvw",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729009085/1_eprlxn.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729009059/3_vx7oiv.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729009085/1_eprlxn.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729009059/3_vx7oiv.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729009051/2_wybjgs.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963571/5_toi3hc.webp",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963570/4_jlzqzg.jpg"
         ]
     },
     {
         "id": 32,
         "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3283.473679130829!2d135.0191001763635!3d34.61746827294931!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000824134f53bcd%3A0xaeaac1c733d78c3f!2sC%E1%BA%A7u%20Akashi-Kaikyo!5e0!3m2!1svi!2s!4v1728723115407!5m2!1svi!2s",
-        "name": "Akashi Kaikyō Bridge",
+        "name": "Akashi Kaikyo Bridge",
         "location": "Japan",
         "category": "Iconic Bridges",
         "continent": "Asia",
@@ -1979,14 +1990,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/0XmPdKMnhfE",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963577/1_lyj2fz.webp",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963572/2_gzanmg.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963577/1_lyj2fz.webp",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963572/2_gzanmg.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963570/3_zdgq0e.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963571/4_fbmxji.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963573/5_ezukqg.jpg"
         ]
     },
     {
@@ -2041,14 +2052,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/_tF5dzShWBM",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963584/1_zh8p25.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963585/5_qwa4av.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963584/1_zh8p25.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963585/5_qwa4av.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963574/3_jlavpz.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963574/4_i3qpec.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963573/2_mzl3j4.jpg"
         ]
     },
     {
@@ -2103,14 +2114,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/MNT11BXjtAI",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963600/1_wvknrw.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963578/2_t0ymah.webp",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963600/1_wvknrw.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963578/2_t0ymah.webp",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963580/3_x5l0sv.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963580/4_ygwu4w.webp",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963588/5_s8gvku.jpg"
         ]
     },
     {
@@ -2165,14 +2176,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/sRAWm_YKcWY",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963607/1_m8qsjb.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963585/2_hfthmn.webp",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963607/1_m8qsjb.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963585/2_hfthmn.webp",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963589/3_cijhnu.webp",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963608/4_y7oztn.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963597/5_yiotlr.jpg"
         ]
     },
     {
@@ -2227,14 +2238,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/ZgRemJvtsbc",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729009379/1_svqbhb.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963591/2_z2o7gl.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729009379/1_svqbhb.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963591/2_z2o7gl.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963593/3_g2pvt2.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963597/4_l21zvk.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963597/5_yl9jua.jpg"
         ]
     },
     {
@@ -2289,14 +2300,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/mSV3mhzv78k",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729009503/1_rrfkfv.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963603/2_hrqeyh.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729009503/1_rrfkfv.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963603/2_hrqeyh.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963609/3_bxeeyf.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963603/4_fmn5a0.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963610/5_g6umfs.jpg"
         ]
     },
     {
@@ -2351,14 +2362,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/K1SaC3F9pUw",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963621/1_kfdmte.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963616/5_rbnbld.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963621/1_kfdmte.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963616/5_rbnbld.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963613/4_esomwh.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963612/3_dezd2y.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963608/2_sgd9nm.webp"
         ]
     },
     {
@@ -2413,14 +2424,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/-D-8QHgFelM",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963623/1_pufhog.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963612/2_gv8sh6.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963623/1_pufhog.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963612/2_gv8sh6.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963614/3_x95swj.webp",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963616/4_secrzp.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963615/5_iystpj.webp"
         ]
     },
     {
@@ -2475,14 +2486,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/-EnZUXJc8xk",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963631/1_rezlv0.png",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963618/2_ucahuw.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963631/1_rezlv0.png",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963618/2_ucahuw.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963623/3_th7f83.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963624/5_zqgmwt.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963624/4_ui8yto.jpg"
         ]
     },
     {
@@ -2537,14 +2548,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/dV47wp8DgDc",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963640/1_wqyhtg.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963627/2_bjgobe.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963640/1_wqyhtg.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963627/2_bjgobe.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963626/3_vam8tb.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963630/4_ztgr0z.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963632/5_su0nth.jpg"
         ]
     },
     {
@@ -2599,14 +2610,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/9vvvmcY2lmE",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963638/1_x9qmnh.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963638/2_nma3uj.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963638/1_x9qmnh.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963638/2_nma3uj.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963634/3_zlsyfu.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963636/4_bsaykz.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963639/5_q7shhh.jpg"
         ]
     },
     {
@@ -2661,14 +2672,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/JHqi7Kijedw",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963647/1_s9knqh.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963641/2_wn1ndr.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963647/1_s9knqh.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963641/2_wn1ndr.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963643/3_w7b8ng.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963645/4_bbopd8.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963645/5_thtov4.jpg"
         ]
     },
     {
@@ -2723,14 +2734,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/c0nkwhyJnoQ",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963649/1_o1b6e8.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963649/2_jeqlpt.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963649/1_o1b6e8.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963649/2_jeqlpt.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963650/3_jjyg6s.webp",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963648/4_hhoa2d.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963651/5_uozywb.jpg"
         ]
     },
     {
@@ -2785,14 +2796,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/GDUIYZKlknk",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963662/1_hb1dy9.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963655/4_y0uikx.webp",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963662/1_hb1dy9.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963655/4_y0uikx.webp",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963654/3_hddhtz.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963653/5_nyc6xo.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963652/2_m2dgsq.jpg"
         ]
     },
     {
@@ -2847,14 +2858,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/UTOvoZ6kwmg",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963660/1_w8n9xt.webp",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963658/3_qiel0l.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963660/1_w8n9xt.webp",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963658/3_qiel0l.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963657/5_txoyxk.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963657/4_ghn1am.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963655/2_dq2tnr.jpg"
         ]
     },
     {
@@ -2909,14 +2920,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/pihaZvpuPv8",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963680/1_a8hrhr.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963664/5_ahbd0c.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963680/1_a8hrhr.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963664/5_ahbd0c.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963663/4_icvywg.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963661/3_tziqh3.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963659/2_iqm21d.jpg"
         ]
     },
     {
@@ -2971,14 +2982,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/kjsEluLLigw",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963673/1_qsdvrl.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963667/2_yr0lm7.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963673/1_qsdvrl.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963667/2_yr0lm7.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963666/3_rkqank.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963666/4_wshjgu.webp",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963670/5_lkgbgd.jpg"
         ]
     },
     {
@@ -3033,14 +3044,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/pcSklZotuUo",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729010062/1_q8ilga.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963674/2_j5yxd7.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729010062/1_q8ilga.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963669/3_r7zhs7.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963691/4_ywg2ka.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963674/5_gsydxv.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963674/2_j5yxd7.jpg"
         ]
     },
     {
@@ -3095,14 +3106,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/FXEMVVM5kvk",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963676/1_st8w6c.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963678/2_uof83j.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963676/1_st8w6c.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963678/2_uof83j.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963676/3_rf3nr6.webp",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963676/4_nsgkhs.webp",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963678/5_ww6o0d.webp"
         ]
     },
     {
@@ -3157,14 +3168,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/8YiC39Gq6dM",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729010256/1_smz3wq.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963679/2_kj23cz.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729010256/1_smz3wq.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963679/2_kj23cz.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963679/3_sdseyy.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963689/4_h7ezw8.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963680/5_yibmpa.jpg"
         ]
     },
     {
@@ -3219,14 +3230,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/46mUBPnAzrI",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963683/1_q2rfhp.webp",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963683/2_jblijf.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963683/1_q2rfhp.webp",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963683/2_jblijf.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963683/3_bgc1te.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963687/4_a8tnkg.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963690/5_wzwbe7.jpg"
         ]
     },
     {
@@ -3281,14 +3292,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/U97ZQlEHjpI",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963689/1_gz9mqd.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963687/2_xaytux.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963689/1_gz9mqd.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963687/2_xaytux.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963691/3_nzvjek.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963690/4_vnalfr.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963693/5_mr5qzt.jpg"
         ]
     },
     {
@@ -3343,14 +3354,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/h-WR9J07IqY",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963718/1_gx90lg.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963700/2_fmwvcs.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963718/1_gx90lg.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963700/2_fmwvcs.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963697/3_gxw2qh.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963694/4_fmknxg.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963694/5_lulkou.jpg"
         ]
     },
     {
@@ -3405,14 +3416,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/SV9UzRP_osE",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963713/1_sitzax.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963711/3_m3wmk9.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963713/1_sitzax.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963711/3_m3wmk9.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963703/5_dldsff.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963701/4_o0fbgn.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963698/2_w0w9d7.jpg"
         ]
     },
     {
@@ -3467,14 +3478,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/g3Kp3c48Fyg",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963712/1_xi2ml1.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963705/2_whxert.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963712/1_xi2ml1.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963705/2_whxert.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963707/3_wapzou.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963708/4_hma7kc.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963710/5_msqm2d.jpg"
         ]
     },
     {
@@ -3529,14 +3540,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/TQ6-XyGEDVY",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963712/1_xj6eco.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963714/2_u2pde7.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963712/1_xj6eco.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963714/2_u2pde7.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963715/3_vw4on5.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963715/4_ybrryr.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963715/5_bcmo9r.jpg"
         ]
     },
     {
@@ -3591,20 +3602,20 @@
             }
         ],
         "video": "https://www.youtube.com/embed/gYfSLW9hC48",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963745/1_lidkbk.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963720/2_ig8mb6.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963745/1_lidkbk.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963720/2_ig8mb6.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963720/5_dbq3gl.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963719/3_vgspaj.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963717/4_seikvw.jpg"
         ]
     },
     {
         "id": 59,
         "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2255.544610288971!2d12.825386277298028!3d55.57512717301901!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4653a7023a051afb%3A0xbc0e93c11c372873!2zQ-G6p3Ugw5hyZXN1bmQ!5e0!3m2!1svi!2s!4v1728723801620!5m2!1svi!2s",
-        "name": "Øyresund Bridge",
+        "name": "Oyresund Bridge",
         "location": "Malmö, Sweden - Copenhagen, Denmark",
         "category": "Iconic Bridges",
         "continent": "Europe",
@@ -3653,14 +3664,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/DBUCH1iDTf8",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963723/1_ank6al.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963721/2_js3imk.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963723/1_ank6al.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963721/2_js3imk.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963722/3_vzorc0.webp",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963725/4_pn50ql.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963726/5_pgnyxs.jpg"
         ]
     },
     {
@@ -3715,14 +3726,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/zS6enYJBfEQ",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729010685/1_imfym0.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963727/2_gaevkm.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729010685/1_imfym0.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963727/2_gaevkm.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963726/4_o8vp0o.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963725/3_lg19lc.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963729/5_l5a1s3.jpg"
         ]
     },
     {
@@ -3777,14 +3788,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/W_2uxCNBYxk",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963744/1_oqy7af.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963741/5_roi8ob.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963744/1_oqy7af.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963741/5_roi8ob.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963730/4_pxqgiw.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963729/3_beshze.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963728/2_qr1dhg.jpg"
         ]
     },
     {
@@ -3839,14 +3850,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/mrj-gp0bv6E",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963744/1_abm6cl.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963740/4_mfbmir.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963744/1_abm6cl.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963740/4_mfbmir.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963738/5_pmolkg.webp",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963736/3_dytfmp.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963731/2_ev4q46.jpg"
         ]
     },
     {
@@ -3857,7 +3868,7 @@
         "category": "Modern Great Bridges",
         "continent": "Asia",
         "summary": "A large suspension bridge under construction in Hong Kong, set to become part of the Tsing Ma bridge system.",
-        "yearCompleted": "Under Construction",
+        "yearCompleted": 9999,
         "length": 1418,
         "height": 206,
         "tall": 206,
@@ -3901,14 +3912,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/yysmGcgeDE8",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963751/1_sguuzv.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963750/5_lmsc4r.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963751/1_sguuzv.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963750/5_lmsc4r.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963750/4_mo6gy2.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963749/3_i256ec.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963747/2_qwwouz.webp"
         ]
     },
     {
@@ -3963,14 +3974,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/Kld8uqcANJw",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963754/1_kzhxgz.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963758/5_viudt1.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963754/1_kzhxgz.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963758/5_viudt1.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963754/3_eucken.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963753/4_teimfj.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963751/2_mvhrwq.jpg"
         ]
     },
     {
@@ -4025,14 +4036,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/OAORQkLOdqs",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963754/1_kzhxgz.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963758/5_viudt1.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963754/1_kzhxgz.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963758/5_viudt1.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963754/3_eucken.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963753/4_teimfj.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963751/2_mvhrwq.jpg"
         ]
     },
     {
@@ -4087,14 +4098,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/bYcPuCa1dzQ",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963776/1_amqtzm.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963762/4_hfhvi4.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963776/1_amqtzm.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963762/4_hfhvi4.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963760/2_pilwka.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963758/5_rfuhvs.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963756/3_yihbgn.jpg"
         ]
     },
     {
@@ -4149,14 +4160,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/fyPmc-R-SKo",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963786/1_huwm7q.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963765/4_cwdgt6.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963786/1_huwm7q.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963765/4_cwdgt6.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963764/5_lwanbw.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963763/3_le3mtx.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963762/2_syfu5f.jpg"
         ]
     },
     {
@@ -4211,14 +4222,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/a7wbYf0mqwg",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963788/1_kwg92k.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963777/3_phzsar.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963788/1_kwg92k.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963777/3_phzsar.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963773/5_rqolxk.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963770/4_weupqg.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963768/2_g9xfnd.jpg"
         ]
     },
     {
@@ -4273,14 +4284,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/__lLTJmTsp4",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963776/1_dp7fc0.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963780/2_lp7avi.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963776/1_dp7fc0.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963780/2_lp7avi.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963779/3_bg9tig.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963782/4_bbijqk.webp",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963780/5_bqejfj.jpg"
         ]
     },
     {
@@ -4335,20 +4346,20 @@
             }
         ],
         "video": "https://www.youtube.com/embed/KUIlWfka7uo",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963784/1_k5wqci.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963781/2_susdzp.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963784/1_k5wqci.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963781/2_susdzp.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963786/3_k7n5uj.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963786/4_qxfboz.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963785/5_vs0ccv.jpg"
         ]
     },
     {
         "id": 71,
         "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2255.544610288971!2d12.825386277298028!3d55.57512717301901!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4653a7023a051afb%3A0xbc0e93c11c372873!2zQ-G6p3Ugw5hyZXN1bmQ!5e0!3m2!1svi!2s!4v1728724101701!5m2!1svi!2s",
-        "name": "Øresund Bridge",
+        "name": "Oresund Bridge",
         "location": "Sweden/Denmark",
         "category": "Modern Great Bridges",
         "continent": "Europe",
@@ -4397,14 +4408,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/kE8QjC8D8iA",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963789/1_ipebpt.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963790/3_j2gvsr.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963789/1_ipebpt.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963790/3_j2gvsr.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963790/5_tffvkr.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963789/4_qlnisy.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963787/2_pg3hma.webp"
         ]
     },
     {
@@ -4459,14 +4470,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/eE-nmmAx9aw",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963811/1_cidu1a.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963797/4_pn31f9.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963811/1_cidu1a.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963797/4_pn31f9.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963792/5_sdj3zi.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963792/3_xs7bpy.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963790/2_usjauc.jpg"
         ]
     },
     {
@@ -4521,14 +4532,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/CdT0ZJJv6ws",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963796/1_chxceb.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963793/2_o7bxd8.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963796/1_chxceb.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963793/2_o7bxd8.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963796/3_rutiwi.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963795/4_xivbyk.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963796/5_fyg7r6.jpg"
         ]
     },
     {
@@ -4583,14 +4594,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/QmXGBud7oaI",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963806/1_bmql9w.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963800/3_ez9onx.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963806/1_bmql9w.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963800/3_ez9onx.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963800/5_fgklcg.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963799/4_mlzagx.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963798/2_wzat2s.jpg"
         ]
     },
     {
@@ -4645,14 +4656,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/dStITCgn73w",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729011371/1_ngzubd.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963810/4_qlc3wb.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1729011371/1_ngzubd.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963810/4_qlc3wb.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963805/3_kyxuxg.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963802/5_xe3qnm.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963801/2_x41mb0.jpg"
         ]
     },
     {
@@ -4707,14 +4718,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/xVDt0o7bCdU",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963281/1_uxghwd.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963277/5_wlz6az.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963281/1_uxghwd.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963277/5_wlz6az.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963261/4_kdbxhp.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963257/3_c99wjp.avif",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963256/2_ofvtcx.avif"
         ]
     },
     {
@@ -4769,20 +4780,20 @@
             }
         ],
         "video": "https://www.youtube.com/embed/GZF4QOJMsK8",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963272/1_qnwlin.webp",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963269/4_wuyla3.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963272/1_qnwlin.webp",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963269/4_wuyla3.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963263/5_gmknv5.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963259/3_auxkse.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963258/2_ce5cdq.webp"
         ]
     },
     {
         "id": 78,
         "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3041.151253567569!2d26.635210976583878!3d40.33899057145224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b16d8d9bdf3073%3A0x19074d698defb65!2zMTkxNSDDh2FuYWtrYWxlIEvDtnByw7xzw7wsIFRo4buVIE5oxKkgS-G7sw!5e0!3m2!1svi!2s!4v1728724264694!5m2!1svi!2s",
-        "name": "Çanakkale 1915 Bridge",
+        "name": "Canakkale 1915 Bridge",
         "location": "Turkey",
         "category": "High-Level Achievement Bridges",
         "continent": "Asia/Europe",
@@ -4831,14 +4842,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/fqjugPlAGhE",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963269/1_s57alc.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963273/5_pbsyfc.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963269/1_s57alc.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963273/5_pbsyfc.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963271/4_s34aqu.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963271/3_u2w6ck.webp",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963268/2_sozojo.jpg"
         ]
     },
     {
@@ -4893,14 +4904,14 @@
             }
         ],
         "video": "https://www.youtube.com/embed/KWAggpBIPeY",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963299/1_rrt0b6.jpg",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963277/2_eaw6jg.jpg",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963299/1_rrt0b6.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963277/2_eaw6jg.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963275/3_lxufsf.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963277/4_yc6tpy.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963283/5_kjblf8.jpg"
         ]
     },
     {
@@ -4955,1250 +4966,15 @@
             }
         ],
         "video": "https://www.youtube.com/embed/5vlxAtVJhdI",
-        "imgMain": "",
-        "imgCard": "",
+        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963292/1_cwwdxv.png",
+        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963283/5_wzceyx.avif",
         "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "id": 81,
-        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3678.357080209409!2d113.60978407600437!3d22.789228979338006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3403ba31b9c91d61%3A0xbe24e3f03de7dca5!2zQ-G6p3UgSOG7lSBNw7Ru!5e0!3m2!1svi!2s!4v1728724343610!5m2!1svi!2s",
-        "name": "Humen Pearl River Bridge",
-        "location": "China",
-        "category": "High-Level Achievement Bridges",
-        "continent": "Asia",
-        "summary": "A large suspension bridge spanning the Pearl River, connecting Guangzhou with the city of Dongguan.",
-        "yearCompleted": 1997,
-        "length": 4588,
-        "height": 138,
-        "tall": 138,
-        "type": "Suspension",
-        "description": "The Humen Pearl River Bridge is a large suspension bridge that spans the Pearl River, connecting the cities of Guangzhou and Dongguan in southern China. Completed in 1997, the bridge plays a vital role in the region's transportation network, facilitating the movement of goods and people across one of China's busiest waterways. The bridge is a key infrastructure component in the rapidly developing Pearl River Delta region.",
-        "history": "Construction of the Humen Pearl River Bridge began in 1992 and was completed in 1997. The bridge was built to address the growing demand for transportation infrastructure in the Pearl River Delta, one of China’s most economically dynamic regions. The bridge has since become an essential link in the region’s road network.",
-        "architecture": "The bridge is 4588 meters long, with a main suspension span of 888 meters. Its towers rise 138 meters above the water, supporting the suspension cables that carry the bridge’s six-lane roadway. The bridge’s design allows it to accommodate heavy traffic while withstanding the region’s frequent typhoons and seismic activity.",
-        "culturalSignificance": "The Humen Pearl River Bridge is a symbol of China’s rapid economic development and its commitment to building world-class infrastructure. The bridge is frequently featured in media showcasing the growth of the Pearl River Delta region, and it has become a key landmark in southern China.",
-        "tourismImpact": "The bridge is a popular tourist attraction, particularly for those visiting the Pearl River Delta. Tourists often take boat tours of the river, offering views of the bridge and the surrounding industrial landscape. The bridge’s importance in China’s economic development has made it a point of interest for visitors to the region.",
-        "tourismRevenue": "Tourism revenue related to the Humen Pearl River Bridge is estimated at ¥20-30 million annually, driven by river tours, local attractions, and businesses in Guangzhou and Dongguan.",
-        "eventsAndFestivals": "The bridge is illuminated for national holidays and public events, including China’s National Day and the annual Pearl River Delta Economic Forum. It is also used as a backdrop for cultural performances and exhibitions that highlight the region’s industrial and economic achievements.",
-        "conservationEfforts": "The bridge is maintained by Chinese authorities, with regular inspections and repairs to ensure its safety and longevity. Conservation efforts focus on protecting the bridge’s suspension cables and towers from typhoon damage and saltwater corrosion, given its location near the Pearl River estuary.",
-        "faq": [
-            {
-                "question": "When was Humen Pearl River Bridge built?",
-                "answer": "Humen Pearl River Bridge was completed in 1997 and officially opened to traffic on December 30, 1997."
-            },
-            {
-                "question": "Why is Humen Pearl River Bridge famous?",
-                "answer": "Humen Pearl River Bridge is famous for its striking design and significant role in enhancing transportation across the Pearl River, connecting the cities of Dongguan and Guangzhou."
-            },
-            {
-                "question": "How long is Humen Pearl River Bridge?",
-                "answer": "Humen Pearl River Bridge is approximately 888 meters (2,913 feet) long."
-            },
-            {
-                "question": "What type of bridge is Humen Pearl River Bridge?",
-                "answer": "Humen Pearl River Bridge is a cable-stayed bridge, characterized by its tall towers and cables that support the roadway."
-            },
-            {
-                "question": "Can pedestrians walk across Humen Pearl River Bridge?",
-                "answer": "No, Humen Pearl River Bridge does not have pedestrian walkways; it is primarily designed for vehicular traffic."
-            },
-            {
-                "question": "What makes Humen Pearl River Bridge unique?",
-                "answer": "Humen Pearl River Bridge is unique for its modern engineering and design, as well as its critical role in facilitating trade and transportation in the Pearl River Delta region."
-            },
-            {
-                "question": "Has Humen Pearl River Bridge undergone any renovations?",
-                "answer": "Since its opening, Humen Pearl River Bridge has undergone regular maintenance to ensure its safety and structural integrity, but it has not required major renovations."
-            }
-        ],
-        "video": "https://www.youtube.com/embed/1ku6prngGDA",
-        "imgMain": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963103/1_xgclku.jpg",
-        "imgCard": "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963097/5_hxuivt.jpg",
-        "img": [
-            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963104/4_puliuk.jpg",
-            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963103/1_xgclku.jpg",
-            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963100/3_cagdrt.jpg",
-            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963097/5_hxuivt.jpg",
-            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963094/2_tw5dgo.jpg"
-        ]
-    },
-    {
-        "id": 82,
-        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3155.8871195010906!2d114.76670987647958!3d37.722327371998674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35e70efc6cbd0207%3A0xbf007a974338ed64!2z6LW15bee5qGl!5e0!3m2!1svi!2s!4v1728724361310!5m2!1svi!2s",
-        "name": "Zhaozhou Bridge",
-        "location": "Hebei, China",
-        "category": "High-Level Achievement Bridges",
-        "continent": "Asia",
-        "summary": "The oldest stone segmental arch bridge in the world, located in Hebei province, China.",
-        "yearCompleted": "605 AD",
-        "length": 50,
-        "height": 9,
-        "tall": 9,
-        "type": "Stone Segmental Arch",
-        "description": "The Zhaozhou Bridge, also known as the Anji Bridge, is the oldest stone segmental arch bridge in the world. Built during the Sui dynasty in 605 AD, the bridge spans the Xiao River in Hebei province, China. The bridge is an architectural marvel, demonstrating advanced engineering techniques that were far ahead of their time. It has survived numerous floods and earthquakes over its long history.",
-        "history": "Construction of the Zhaozhou Bridge was commissioned by the Sui dynasty and designed by the renowned Chinese engineer Li Chun. The bridge was built using an innovative stone segmental arch design, which allowed it to withstand the forces of nature. The bridge has been a vital part of the region’s transportation network for over 1,400 years, and its historical significance has been recognized worldwide.",
-        "architecture": "The bridge is 50 meters long, with a single segmental arch spanning 37 meters. The bridge’s arch rises 9 meters above the river, and its stone construction has been carefully maintained over the centuries. The use of a segmental arch design, rather than a traditional semicircular arch, was a groundbreaking innovation at the time and contributed to the bridge’s longevity.",
-        "culturalSignificance": "The Zhaozhou Bridge is a symbol of China’s rich architectural heritage and its long history of engineering innovation. The bridge is frequently studied by engineers and historians for its advanced design, and it has become a major cultural and historical landmark in China. The bridge is also a UNESCO World Heritage site, recognized for its significance in global engineering history.",
-        "tourismImpact": "The Zhaozhou Bridge is a popular tourist destination, attracting visitors from around the world who come to admire its design and learn about its history. The bridge is part of a larger historical and cultural site that includes museums and exhibits dedicated to Chinese engineering and architecture.",
-        "tourismRevenue": "Tourism revenue related to the Zhaozhou Bridge is estimated at ¥10-15 million annually, benefiting local businesses, museums, and tour operators in Hebei province.",
-        "eventsAndFestivals": "The bridge is a focal point during regional festivals and cultural events, including exhibitions and educational programs about China’s ancient engineering achievements. It is also used as a venue for photography contests and historical reenactments.",
-        "conservationEfforts": "The bridge is maintained by Chinese heritage authorities, with regular inspections and conservation efforts to preserve its historical integrity. Efforts focus on protecting the bridge from environmental damage, including floods and earthquakes, while ensuring that it remains accessible to visitors.",
-        "faq": [
-            {
-                "question": "When was Zhaozhou Bridge built?",
-                "answer": "Zhaozhou Bridge was completed during the Sui Dynasty, around 605-616 AD."
-            },
-            {
-                "question": "Why is Zhaozhou Bridge famous?",
-                "answer": "Zhaozhou Bridge is famous for being the oldest standing stone arch bridge in the world and a significant example of ancient Chinese engineering. It showcases advanced construction techniques for its time."
-            },
-            {
-                "question": "How long is Zhaozhou Bridge?",
-                "answer": "Zhaozhou Bridge is approximately 50.82 meters (166.4 feet) long."
-            },
-            {
-                "question": "What type of bridge is Zhaozhou Bridge?",
-                "answer": "Zhaozhou Bridge is a stone arch bridge, characterized by its single large arch that spans the river."
-            },
-            {
-                "question": "Can pedestrians walk across Zhaozhou Bridge?",
-                "answer": "Yes, Zhaozhou Bridge allows pedestrian traffic, and it is often visited by tourists who want to admire its historic architecture."
-            },
-            {
-                "question": "What makes Zhaozhou Bridge unique?",
-                "answer": "Zhaozhou Bridge is unique for its architectural elegance and historical significance, influencing bridge designs around the world for centuries. Its design has inspired many later bridges in China and beyond."
-            },
-            {
-                "question": "Has Zhaozhou Bridge undergone any renovations?",
-                "answer": "Zhaozhou Bridge has undergone restoration efforts to preserve its structure and historical integrity, especially after damage from natural disasters over the years."
-            }
-        ],
-        "video": "https://www.youtube.com/embed/_AVT_DL52SM",
-        "imgMain": "",
-        "imgCard": "",
-        "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "id": 83,
-        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3496.988955940032!2d104.94624107616934!3d28.77958897558474!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x36e9635b6b6c40a7%3A0x1c96148778447593!2sNanxi%20Bridge!5e0!3m2!1svi!2s!4v1728724385281!5m2!1svi!2s",
-        "name": "Nanxi Bridge",
-        "location": "China",
-        "category": "High-Level Achievement Bridges",
-        "continent": "Asia",
-        "summary": "An impressive stone arch bridge in China, known for its long history and resilience.",
-        "yearCompleted": 1604,
-        "length": 132,
-        "height": 15,
-        "tall": 15,
-        "type": "Stone Arch",
-        "description": "The Nanxi Bridge is a historic stone arch bridge located in China, built during the Ming dynasty in 1604. The bridge spans the Nanxi River and is known for its elegant design and longevity. Over its long history, the bridge has been an important transportation link in the region, and it continues to stand as a testament to the durability of ancient Chinese engineering techniques.",
-        "history": "Construction of the Nanxi Bridge began in 1598 and was completed in 1604, during the Ming dynasty. The bridge was built to improve transportation across the Nanxi River, and its stone arch design was chosen for its strength and resilience. The bridge has withstood centuries of use, including floods and natural disasters, making it one of the most well-preserved stone arch bridges in China.",
-        "architecture": "The bridge is 132 meters long, with a main span of 15 meters. Its stone arches are supported by piers that were designed to withstand the river’s currents and seasonal floods. The bridge’s design reflects the engineering knowledge of the Ming dynasty and has been carefully maintained over the centuries.",
-        "culturalSignificance": "The Nanxi Bridge is a symbol of China’s architectural heritage and the ingenuity of its ancient engineers. The bridge is frequently studied by historians and architects for its design, and it has become a cultural landmark in the region. The bridge’s history and resilience are celebrated as part of China’s rich engineering tradition.",
-        "tourismImpact": "The Nanxi Bridge is a popular destination for tourists, particularly those interested in Chinese history and architecture. Visitors come to see the bridge’s well-preserved stone arches and to learn about its historical significance. The surrounding area has also become a popular spot for cultural tourism.",
-        "tourismRevenue": "Tourism revenue related to the Nanxi Bridge is estimated at ¥8-10 million annually, benefiting local businesses, tour operators, and cultural attractions in the region.",
-        "eventsAndFestivals": "The bridge is often included in local festivals and cultural events that celebrate the region’s history and heritage. It is also a popular location for photography contests and educational tours.",
-        "conservationEfforts": "The bridge is maintained by Chinese heritage authorities, with ongoing conservation efforts to ensure its preservation. These efforts focus on protecting the bridge from environmental damage and ensuring that it remains accessible to visitors without compromising its historical integrity.",
-        "faq": [
-            {
-                "question": "When was Nanxi Bridge built?",
-                "answer": "Nanxi Bridge was completed in 2007 and officially opened to traffic in the same year."
-            },
-            {
-                "question": "Why is Nanxi Bridge famous?",
-                "answer": "Nanxi Bridge is famous for its unique design and engineering, as well as its scenic location over the Nanxi River, enhancing connectivity in the region."
-            },
-            {
-                "question": "How long is Nanxi Bridge?",
-                "answer": "Nanxi Bridge is approximately 1,028 meters (3,373 feet) long."
-            },
-            {
-                "question": "What type of bridge is Nanxi Bridge?",
-                "answer": "Nanxi Bridge is a cable-stayed bridge, characterized by its tall pylons and cables that support the roadway."
-            },
-            {
-                "question": "Can pedestrians walk across Nanxi Bridge?",
-                "answer": "Yes, Nanxi Bridge has pedestrian walkways, allowing visitors to walk across and enjoy views of the Nanxi River and surrounding landscape."
-            },
-            {
-                "question": "What makes Nanxi Bridge unique?",
-                "answer": "Nanxi Bridge is unique for its architectural design that blends with the natural environment, making it a significant landmark in the area."
-            },
-            {
-                "question": "Has Nanxi Bridge undergone any renovations?",
-                "answer": "Since its opening, Nanxi Bridge has not required major renovations but undergoes regular maintenance to ensure its safety and structural integrity."
-            }
-        ],
-        "video": "https://www.youtube.com/embed/ZupVS2oeSXc",
-        "imgMain": "",
-        "imgCard": "",
-        "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "id": 84,
-        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26832.565882238065!2d-79.92701881025297!3d32.79038366408887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88fe7081c16ea72f%3A0xaf2ef081bb4489cf!2sArthur%20Ravenel%20Jr.%20Bridge!5e0!3m2!1svi!2s!4v1728724415100!5m2!1svi!2s",
-        "name": "Cooper River Bridge",
-        "location": "South Carolina, USA",
-        "category": "High-Level Achievement Bridges",
-        "continent": "North America",
-        "summary": "A cable-stayed bridge in Charleston, South Carolina, known for its elegant design and role in the city’s development.",
-        "yearCompleted": 2005,
-        "length": 4717,
-        "height": 175,
-        "tall": 175,
-        "type": "Cable-Stayed",
-        "description": "The Arthur Ravenel Jr. Bridge, commonly known as the Cooper River Bridge, is a cable-stayed bridge that spans the Cooper River in Charleston, South Carolina. Completed in 2005, the bridge connects downtown Charleston with the city of Mount Pleasant and plays a key role in the region’s transportation network. The bridge is known for its graceful design and its impact on the economic growth of the Charleston area.",
-        "history": "Construction of the Cooper River Bridge began in 2001 and was completed in 2005. The bridge was built to replace two aging bridges that had served as the primary means of crossing the Cooper River. The new bridge was designed to accommodate the region’s growing population and to improve the safety and efficiency of transportation in the Charleston area.",
-        "architecture": "The bridge is 4717 meters long, with a main span of 471 meters supported by two towers that rise 175 meters above the river. The bridge’s cable-stayed design allows it to support heavy traffic loads while providing unobstructed views of the Charleston skyline. The bridge was also designed to withstand seismic activity and hurricanes, making it a vital piece of infrastructure in the region.",
-        "culturalSignificance": "The Cooper River Bridge is a symbol of Charleston’s modernization and its role as a gateway to the South Carolina Lowcountry. The bridge is frequently featured in media promoting Charleston as a tourist destination, and its design has been praised for its beauty and functionality. The bridge has also become a key part of Charleston’s cultural landscape, serving as a backdrop for festivals and events.",
-        "tourismImpact": "The bridge is a major tourist attraction, offering stunning views of Charleston Harbor and the city’s skyline. Visitors often take boat tours to view the bridge from the water, and the bridge itself is a popular destination for photographers and tourists exploring the Charleston area.",
-        "tourismRevenue": "Tourism revenue related to the Cooper River Bridge is estimated at $40-50 million annually, benefiting local businesses, tour operators, and cultural attractions in Charleston and Mount Pleasant.",
-        "eventsAndFestivals": "The bridge is the focal point of the annual Cooper River Bridge Run, one of the largest 10K races in the United States. The event attracts tens of thousands of participants and spectators each year. The bridge is also illuminated for national holidays and public events, making it a key feature in Charleston’s cultural celebrations.",
-        "conservationEfforts": "The bridge is maintained by the South Carolina Department of Transportation, with regular inspections and repairs to ensure its safety and longevity. Conservation efforts focus on protecting the bridge from environmental damage, including hurricanes and saltwater corrosion, while ensuring its structural integrity.",
-        "faq": [
-            {
-                "question": "When was Cooper River Bridge built?",
-                "answer": "The original Cooper River Bridge was completed in 1929. The new Cooper River Bridge, known as the Arthur Ravenel Jr. Bridge, was completed in 2005 and officially opened to traffic on July 16, 2005."
-            },
-            {
-                "question": "Why is Cooper River Bridge famous?",
-                "answer": "Cooper River Bridge is famous for its stunning cable-stayed design, which makes it an iconic landmark in Charleston. The bridge offers beautiful views of the Charleston skyline and the surrounding waterways."
-            },
-            {
-                "question": "How long is Cooper River Bridge?",
-                "answer": "The Arthur Ravenel Jr. Bridge is approximately 4,000 meters (13,100 feet) long, making it one of the longest cable-stayed bridges in the Western Hemisphere."
-            },
-            {
-                "question": "What type of bridge is Cooper River Bridge?",
-                "answer": "Cooper River Bridge is a cable-stayed bridge, characterized by its tall towers and the cables that support the roadway."
-            },
-            {
-                "question": "Can pedestrians walk across Cooper River Bridge?",
-                "answer": "Yes, Cooper River Bridge has dedicated pedestrian walkways, allowing visitors to walk or bike across the bridge and enjoy the scenic views."
-            },
-            {
-                "question": "What makes Cooper River Bridge unique?",
-                "answer": "Cooper River Bridge is unique for its striking architectural design and engineering, as well as its significant role in improving transportation and connectivity in the Charleston area."
-            },
-            {
-                "question": "Has Cooper River Bridge undergone any renovations?",
-                "answer": "Since its opening, Cooper River Bridge has not required major renovations but undergoes regular maintenance to ensure its safety and structural integrity."
-            }
-        ],
-        "video": "https://www.youtube.com/embed/dGsNl-8sAPg",
-        "imgMain": "",
-        "imgCard": "",
-        "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "id": 85,
-        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3535.1229709589725!2d-82.65841672386532!3d27.62070787623236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88c31db3105de9a5%3A0x53e7724a2432b4a6!2sSunshine%20Skyway%20Bridge!5e0!3m2!1svi!2s!4v1728724436529!5m2!1svi!2s",
-        "name": "Sunshine Skyway Bridge",
-        "location": "Florida, USA",
-        "category": "Iconic Bridges",
-        "continent": "North America",
-        "summary": "A cable-stayed bridge that spans Tampa Bay, connecting St. Petersburg to Terra Ceia in Florida.",
-        "yearCompleted": 1987,
-        "length": 8851,
-        "height": 131,
-        "tall": 131,
-        "type": "Cable-stayed",
-        "description": "The Sunshine Skyway Bridge is a breathtaking cable-stayed bridge that spans Tampa Bay, Florida, connecting St. Petersburg with Terra Ceia. With a total length of 8,851 meters, it is one of the longest cable-stayed bridges in the United States. Completed in 1987, it replaced an older cantilever bridge that was partially destroyed in a ship collision. The bridge is renowned for its iconic yellow cables and its panoramic views of Tampa Bay, making it one of Florida's most recognizable landmarks. The bridge’s height allows large ships to pass beneath, serving as an essential transportation route while offering scenic views to travelers.",
-        "history": "The original Sunshine Skyway Bridge was built in the 1950s as a cantilever bridge. However, in 1980, a tragic accident occurred when the freighter MV Summit Venture collided with the bridge during a storm, causing a section of the bridge to collapse and resulting in 35 fatalities. The bridge was subsequently closed, and plans were made to replace it with a more modern and safer structure. Construction on the new Sunshine Skyway Bridge began in 1982, and the new bridge was completed in 1987. The new bridge incorporates modern design elements to withstand both ship impacts and Florida's frequent storms.",
-        "architecture": "The Sunshine Skyway Bridge is a cable-stayed bridge with a total length of 8,851 meters, featuring a main span of 366 meters. Its two central pylons rise 131 meters above sea level, supporting the bridge’s cables in a striking yellow design. The bridge deck is elevated to 55 meters, allowing large ships to pass safely underneath. The bridge was constructed using high-strength concrete and steel to ensure its durability in the face of strong winds, hurricanes, and the heavy traffic it accommodates. The cables are arranged in a fan-like pattern, contributing to the bridge's distinct and visually appealing appearance.",
-        "culturalSignificance": "The Sunshine Skyway Bridge is a symbol of resilience and progress for the Tampa Bay area. It represents a triumph of modern engineering, replacing the tragic loss of the old bridge with a safer, more functional, and visually stunning structure. The bridge has appeared in various films, documentaries, and promotional materials, symbolizing Florida’s natural beauty and its coastal lifestyle. For residents and visitors alike, the Sunshine Skyway is more than just a transportation route—it is an integral part of the region's identity.",
-        "tourismImpact": "The Sunshine Skyway Bridge is not only an essential transportation link but also a major tourist attraction. Visitors often drive across the bridge to experience its breathtaking views of Tampa Bay and the Gulf of Mexico. The bridge’s scenic overlook areas allow travelers to stop and enjoy the coastal beauty, and its proximity to popular Florida destinations, such as St. Petersburg, Sarasota, and the beaches of the Gulf Coast, makes it a popular route for tourists exploring the state.",
-        "tourismRevenue": "While the bridge itself does not generate direct revenue, the Sunshine Skyway contributes to the local economy by facilitating travel to major tourist destinations in the Tampa Bay area. Its picturesque setting has made it a popular subject for photographers, artists, and filmmakers, further promoting tourism in the region. Additionally, nearby parks, marinas, and recreational areas benefit from the increased traffic the bridge brings, as tourists often stop to enjoy the surrounding natural beauty.",
-        "eventsAndFestivals": "The Sunshine Skyway Bridge serves as the site of several public events, including annual charity runs and cycling events. One of the most popular events is the 'Skyway 10K,' an annual race that takes place on the bridge, attracting thousands of runners from across the country. The event raises money for military charities and offers participants a unique opportunity to experience the bridge up close while contributing to a good cause. The bridge is also illuminated during public holidays and special occasions, adding to its role as a landmark for celebrations in the region.",
-        "conservationEfforts": "The Sunshine Skyway Bridge is regularly maintained by the Florida Department of Transportation (FDOT), which ensures that the bridge remains safe and operational for both vehicles and pedestrians. Conservation efforts include routine inspections, repairs, and updates to the bridge’s infrastructure. In recent years, FDOT has implemented additional measures to protect the bridge from the impact of storms and ship collisions, including the installation of fendering systems around the pylons. Environmental impact assessments are also conducted to minimize the bridge’s effect on the surrounding marine ecosystem, with particular attention to protecting the habitats of local wildlife, such as dolphins and seabirds.",
-        "faq": [
-            {
-                "question": "When was Sunshine Skyway Bridge built?",
-                "answer": "The original Sunshine Skyway Bridge was completed in 1954, but the current bridge was completed in 1987 and officially opened to traffic on April 21, 1987."
-            },
-            {
-                "question": "Why is Sunshine Skyway Bridge famous?",
-                "answer": "Sunshine Skyway Bridge is famous for its striking design and for being one of the longest cable-stayed bridges in the United States, providing spectacular views of Tampa Bay."
-            },
-            {
-                "question": "How long is Sunshine Skyway Bridge?",
-                "answer": "Sunshine Skyway Bridge is approximately 8.4 miles (13.5 kilometers) long, with a main span of 1,200 feet (366 meters)."
-            },
-            {
-                "question": "What type of bridge is Sunshine Skyway Bridge?",
-                "answer": "Sunshine Skyway Bridge is a cable-stayed bridge, characterized by its tall pylons and cables that support the roadway."
-            },
-            {
-                "question": "Can pedestrians walk across Sunshine Skyway Bridge?",
-                "answer": "No, Sunshine Skyway Bridge does not have pedestrian walkways; it is designed primarily for vehicular traffic."
-            },
-            {
-                "question": "What makes Sunshine Skyway Bridge unique?",
-                "answer": "Sunshine Skyway Bridge is unique for its stunning architecture and the breathtaking views it offers of the surrounding waterways and skyline. It is also known for its bright yellow color."
-            },
-            {
-                "question": "Has Sunshine Skyway Bridge undergone any renovations?",
-                "answer": "Since its opening, Sunshine Skyway Bridge has undergone regular maintenance and inspections to ensure its safety and structural integrity, but it has not required major renovations."
-            }
-        ],
-        "video": "https://www.youtube.com/embed/eAET6VSNkRM",
-        "imgMain": "",
-        "imgCard": "",
-        "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "id": 86,
-        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3391.521477822536!2d120.99859607626533!3d31.783534974094653!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35b22970454848bf%3A0x77f074226d30582c!2sSutong%20Yangtze%20River%20Bridge!5e0!3m2!1svi!2s!4v1728724459554!5m2!1svi!2s",
-        "name": "Sutong Bridge",
-        "location": "Jiangsu, China",
-        "category": "High-Level Achievement Bridges",
-        "continent": "Asia",
-        "summary": "A record-breaking cable-stayed bridge that spans the Yangtze River in China.",
-        "yearCompleted": 2008,
-        "length": 8206,
-        "height": 306,
-        "tall": 306,
-        "type": "Cable-Stayed",
-        "description": "The Sutong Bridge is a cable-stayed bridge that spans the Yangtze River, connecting the cities of Nantong and Changshu in Jiangsu province, China. Completed in 2008, it is one of the longest cable-stayed bridges in the world and serves as a major transportation link in the region. The bridge is known for its innovative engineering and record-breaking central span.",
-        "history": "Construction of the Sutong Bridge began in 2003 and was completed in 2008. The bridge was built to improve transportation efficiency between Nantong and Changshu, two major industrial cities in Jiangsu province. The bridge’s central span set a world record for the longest cable-stayed span when it was completed, measuring 1088 meters.",
-        "architecture": "The Sutong Bridge is 8206 meters long, with a main span of 1088 meters supported by towers that rise 306 meters above the river. The cable-stayed design allows the bridge to accommodate high volumes of traffic while ensuring stability in the face of strong winds and the heavy currents of the Yangtze River.",
-        "culturalSignificance": "The Sutong Bridge is a symbol of China’s rapid infrastructure development and its role in global engineering innovation. The bridge is frequently featured in media promoting China’s transportation achievements and has become a landmark in Jiangsu province.",
-        "tourismImpact": "The bridge attracts tourists and engineers interested in its design and construction. River cruises along the Yangtze often highlight the bridge, and nearby observation points provide views of the bridge and the river. The bridge has also boosted economic development in the region by improving access to industrial and tourist areas.",
-        "tourismRevenue": "Tourism revenue related to the Sutong Bridge is estimated at ¥30-40 million annually, benefiting local businesses and tour operators in Jiangsu province.",
-        "eventsAndFestivals": "The bridge is illuminated for national holidays and special events, such as China’s National Day and the annual Yangtze River Festival. It is also used as a venue for regional marathons and cycling events.",
-        "conservationEfforts": "The bridge is maintained by Chinese authorities, with regular inspections and maintenance to ensure its safety and structural integrity. Conservation efforts focus on protecting the bridge’s cables and towers from environmental damage and ensuring its long-term durability in the challenging environment of the Yangtze River.",
-        "faq": [
-            {
-                "question": "When was Sutong Bridge built?",
-                "answer": "Sutong Bridge was completed in 2008 and officially opened to traffic on June 1, 2008."
-            },
-            {
-                "question": "Why is Sutong Bridge famous?",
-                "answer": "Sutong Bridge is famous for being one of the longest cable-stayed bridges in the world, with a main span of 1,088 meters (3,566 feet). It connects Nantong and Suzhou across the Yangtze River."
-            },
-            {
-                "question": "How long is Sutong Bridge?",
-                "answer": "Sutong Bridge is approximately 8,206 meters (26,907 feet) long, including its approaches."
-            },
-            {
-                "question": "What type of bridge is Sutong Bridge?",
-                "answer": "Sutong Bridge is a cable-stayed bridge, characterized by its tall towers and cables that support the roadway."
-            },
-            {
-                "question": "Can pedestrians walk across Sutong Bridge?",
-                "answer": "No, Sutong Bridge does not have pedestrian walkways; it is primarily designed for vehicular traffic."
-            },
-            {
-                "question": "What makes Sutong Bridge unique?",
-                "answer": "Sutong Bridge is unique for its impressive engineering and architectural design, as well as its critical role in improving transportation and connectivity in the Yangtze River Delta region."
-            },
-            {
-                "question": "Has Sutong Bridge undergone any renovations?",
-                "answer": "Since its opening, Sutong Bridge has not required major renovations but undergoes regular maintenance to ensure its safety and structural integrity."
-            }
-        ],
-        "video": "https://www.youtube.com/embed/gZDbMqfCKB0",
-        "imgMain": "",
-        "imgCard": "",
-        "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "id": 87,
-        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3009.057071122565!2d29.03117572661312!3d41.04588102134533!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab7cfd1a3ebf1%3A0x56e17fc61c651ec9!2zQ-G6p3Ugbmd1eeG7h24gdOG7rSDEkeG6oW8gbmfDoHkgMTUgdGjDoW5nIDc!5e0!3m2!1svi!2s!4v1728724486134!5m2!1svi!2s",
-        "name": "Bosphorus Bridge",
-        "location": "Istanbul, Turkey",
-        "category": "High-Level Achievement Bridges",
-        "continent": "Europe/Asia",
-        "summary": "A major suspension bridge connecting the European and Asian sides of Istanbul, Turkey.",
-        "yearCompleted": 1973,
-        "length": 1560,
-        "height": 165,
-        "tall": 165,
-        "type": "Suspension",
-        "description": "The Bosphorus Bridge is one of the most famous suspension bridges in the world, connecting the European and Asian sides of Istanbul, Turkey. Completed in 1973, the bridge spans the Bosphorus Strait and serves as a vital transportation link for the city. The bridge is a symbol of Istanbul’s unique position as a city that bridges two continents.",
-        "history": "Construction of the Bosphorus Bridge began in 1970 and was completed in 1973. The bridge was built to improve transportation across the Bosphorus Strait, reducing travel times and facilitating economic growth in Istanbul. It was the first bridge to connect Europe and Asia and remains one of the most important infrastructure projects in Turkey.",
-        "architecture": "The bridge is 1560 meters long, with a main span of 1074 meters. Its towers rise 165 meters above the Bosphorus, supporting the suspension cables that carry the bridge’s eight-lane roadway. The bridge’s design allows it to accommodate heavy traffic while providing stunning views of the strait and the city’s skyline.",
-        "culturalSignificance": "The Bosphorus Bridge is a symbol of Istanbul’s historical and cultural significance as a bridge between Europe and Asia. It has become an iconic part of the city’s skyline and is frequently featured in media promoting Istanbul as a global city. The bridge plays a key role in Istanbul’s transportation network, facilitating both daily commutes and international trade.",
-        "tourismImpact": "The bridge is a major tourist attraction, offering panoramic views of the Bosphorus Strait and the surrounding city. Visitors often take boat tours to view the bridge from the water, and observation points on both sides of the strait provide excellent photo opportunities. The bridge is also included in many city tours that highlight Istanbul’s unique position as a transcontinental city.",
-        "tourismRevenue": "Tourism revenue related to the Bosphorus Bridge is estimated at €50-70 million annually, driven by boat tours, local businesses, and cultural attractions in Istanbul.",
-        "eventsAndFestivals": "The bridge is illuminated for national holidays and cultural events, including Turkey’s Republic Day and the annual Istanbul Marathon, which allows participants to run across the bridge. The bridge is also featured in public events celebrating Istanbul’s history and cultural heritage.",
-        "conservationEfforts": "The bridge is maintained by Turkish authorities, with regular inspections and repairs to ensure its safety and longevity. Conservation efforts focus on protecting the bridge from seismic activity and the effects of saltwater corrosion, given its location in the Bosphorus Strait.",
-        "faq": [
-            {
-                "question": "When was Bosphorus Bridge built?",
-                "answer": "Bosphorus Bridge was completed in 1973 and officially opened to traffic on October 30, 1973."
-            },
-            {
-                "question": "Why is Bosphorus Bridge famous?",
-                "answer": "Bosphorus Bridge is famous for being the first bridge to connect the European and Asian sides of Istanbul, symbolizing the unification of the two continents."
-            },
-            {
-                "question": "How long is Bosphorus Bridge?",
-                "answer": "Bosphorus Bridge is approximately 1,560 meters (5,120 feet) long, with a main span of 1,074 meters (3,524 feet)."
-            },
-            {
-                "question": "What type of bridge is Bosphorus Bridge?",
-                "answer": "Bosphorus Bridge is a suspension bridge, featuring two tall towers and cables that support the roadway."
-            },
-            {
-                "question": "Can pedestrians walk across Bosphorus Bridge?",
-                "answer": "No, Bosphorus Bridge is primarily designed for vehicular traffic, and there are no pedestrian walkways on the bridge."
-            },
-            {
-                "question": "What makes Bosphorus Bridge unique?",
-                "answer": "The bridge is unique for its strategic location, connecting two continents and serving as a vital artery for transportation in Istanbul. It also has significant cultural and historical importance."
-            },
-            {
-                "question": "Has Bosphorus Bridge undergone any renovations?",
-                "answer": "Yes, Bosphorus Bridge has undergone various maintenance and upgrades since its completion to enhance its structural integrity and safety."
-            }
-        ],
-        "video": "https://www.youtube.com/embed/c0nkwhyJnoQ",
-        "imgMain": "",
-        "imgCard": "",
-        "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "id": 88,
-        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3130.227685671618!2d21.770724176502906!3d38.32055797185293!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x135e4c05612147c7%3A0xe1a625ba4f9e17c3!2sC%E1%BA%A7u%20Rio-Antirio!5e0!3m2!1svi!2s!4v1728724507871!5m2!1svi!2s",
-        "name": "Rion-Antirion Bridge",
-        "location": "Greece",
-        "category": "Iconic Bridges",
-        "continent": "Europe",
-        "summary": "The longest fully suspended cable-stayed bridge in the world, connecting the Peloponnese to mainland Greece.",
-        "yearCompleted": 2004,
-        "length": 2880,
-        "height": 160,
-        "tall": 160,
-        "type": "Cable-stayed",
-        "description": "The Rion-Antirion Bridge, also known as the Charilaos Trikoupis Bridge, is the longest fully suspended cable-stayed bridge in the world. Spanning 2,880 meters, it connects the town of Rion on the Peloponnese peninsula with Antirion on the Greek mainland. The bridge was completed in 2004 in time for the Athens Olympic Games and is considered one of the most impressive feats of modern engineering in Europe. The bridge crosses the Gulf of Corinth and plays a crucial role in linking the western part of Greece to its central and northern regions, improving transportation and trade across the country.",
-        "history": "Plans for the Rion-Antirion Bridge were first proposed in the late 19th century by Charilaos Trikoupis, a Greek statesman who recognized the need for better infrastructure to connect the Peloponnese with mainland Greece. However, technological limitations and financial difficulties prevented the project from moving forward until the late 20th century. Construction of the bridge began in 1998 and was completed in 2004. The project was part of Greece's broader modernization efforts leading up to the 2004 Olympic Games. The bridge was designed to withstand seismic activity, high winds, and deep waters, all of which are challenges in the Gulf of Corinth.",
-        "architecture": "The Rion-Antirion Bridge is a cable-stayed bridge with four pylons, each rising 160 meters above sea level. The total length of the bridge is 2,880 meters, with a main span of 560 meters. The bridge’s design incorporates seismic protection systems, allowing it to remain operational even during earthquakes, which are common in this region. The bridge’s foundations were built using innovative techniques to account for the deep waters and unstable seabed in the Gulf of Corinth. The structure’s aerodynamic design and use of cutting-edge materials make it one of the most advanced bridges in the world.",
-        "culturalSignificance": "The Rion-Antirion Bridge is not just a crucial transportation link but also a symbol of Greek resilience and innovation. The bridge is named after Charilaos Trikoupis, the Greek prime minister who first envisioned the project. It has become an iconic landmark in Greece and is often featured in travel brochures, documentaries, and advertisements. The bridge represents the country’s ability to overcome engineering challenges and has become a source of national pride.",
-        "tourismImpact": "Since its completion, the Rion-Antirion Bridge has attracted tourists from around the world. Its stunning design and the scenic views of the Gulf of Corinth make it a popular spot for photography. The bridge also provides easier access to tourist destinations in the Peloponnese and western Greece, boosting the local economy. Travelers crossing the bridge can stop at nearby viewpoints to take in the breathtaking vistas of the sea and mountains.",
-        "tourismRevenue": "The Rion-Antirion Bridge has contributed to increased tourism in both the Peloponnese and mainland Greece by improving accessibility to the region’s historical and cultural landmarks. The bridge itself has become a tourist attraction, with guided tours available that explain the bridge’s design, construction, and importance to the region. Local businesses, including hotels, restaurants, and shops, have benefited from the increased traffic through the area.",
-        "eventsAndFestivals": "The Rion-Antirion Bridge is often illuminated during national holidays and public celebrations, such as Greek Independence Day and the New Year. The bridge is also used as a venue for sporting events, including marathons and cycling races. Each year, the bridge hosts a popular running event where participants race across its length, enjoying the stunning views of the Gulf of Corinth.",
-        "conservationEfforts": "The Rion-Antirion Bridge is maintained by a private concessionaire, which oversees its upkeep and ensures its long-term viability. Regular inspections and maintenance work are carried out to protect the bridge from the region’s harsh weather conditions, including high winds and seismic activity. Efforts are also made to minimize the environmental impact of the bridge on the surrounding marine ecosystem.",
-        "faq": [
-            {
-                "question": "When was Rion-Antirion Bridge built?",
-                "answer": "Rion-Antirion Bridge was completed in 2004 and officially opened to traffic on August 7, 2004."
-            },
-            {
-                "question": "Why is Rion-Antirion Bridge famous?",
-                "answer": "Rion-Antirion Bridge is famous for being one of the longest and most technologically advanced cable-stayed bridges in the world, connecting the Peloponnese peninsula with mainland Greece across the Gulf of Corinth."
-            },
-            {
-                "question": "How long is Rion-Antirion Bridge?",
-                "answer": "Rion-Antirion Bridge is approximately 2,883 meters (9,462 feet) long, with a main span of 1,300 meters (4,265 feet)."
-            },
-            {
-                "question": "What type of bridge is Rion-Antirion Bridge?",
-                "answer": "Rion-Antirion Bridge is a cable-stayed bridge, characterized by its large towers and cables that support the roadway."
-            },
-            {
-                "question": "Can pedestrians walk across Rion-Antirion Bridge?",
-                "answer": "No, Rion-Antirion Bridge does not have pedestrian walkways; it is primarily designed for vehicular traffic."
-            },
-            {
-                "question": "What makes Rion-Antirion Bridge unique?",
-                "answer": "Rion-Antirion Bridge is unique for its innovative engineering, designed to withstand earthquakes and strong sea currents, making it a significant achievement in modern bridge construction."
-            },
-            {
-                "question": "Has Rion-Antirion Bridge undergone any renovations?",
-                "answer": "Since its opening, Rion-Antirion Bridge has not required major renovations but undergoes regular maintenance to ensure its safety and structural integrity."
-            }
-        ],
-        "video": "https://www.youtube.com/embed/FhDu5XpAQNs",
-        "imgMain": "",
-        "imgCard": "",
-        "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "id": 89,
-        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2243.9794776576327!2d37.44053817730863!3d55.77622827309284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b548e665543b45%3A0xe8f7e2f3173fbb0b!2sZhivopisniy%20Bridge!5e0!3m2!1svi!2s!4v1728724529787!5m2!1svi!2s",
-        "name": "Zhivopisny Bridge",
-        "location": "Moscow, Russia",
-        "category": "Iconic Bridges",
-        "continent": "Europe",
-        "summary": "A cable-stayed bridge known for its striking design, spanning the Moskva River.",
-        "yearCompleted": 2007,
-        "length": 1460,
-        "height": 105,
-        "tall": 105,
-        "type": "Cable-Stayed",
-        "description": "The Zhivopisny Bridge is a cable-stayed bridge in Moscow, Russia, known for its distinctive arch and modern design. The bridge spans the Moskva River and has become a prominent feature of the city’s skyline.",
-        "history": "Construction of the Zhivopisny Bridge began in 2004 and was completed in 2007. It was designed to improve traffic flow and provide a scenic route across the Moskva River.",
-        "architecture": "The bridge is 1460 meters long with a main span supported by a 105-meter-high arch. The red arch holds the cables that support the roadway, creating a visually striking structure.",
-        "culturalSignificance": "The Zhivopisny Bridge is a symbol of Moscow’s modernization and has become a popular subject for photographers and tourists.",
-        "tourismImpact": "The bridge attracts both locals and tourists who come to admire its design and enjoy the views of the Moskva River.",
-        "tourismRevenue": "Tourism revenue related to the Zhivopisny Bridge is estimated at ₽10-15 million annually.",
-        "eventsAndFestivals": "The bridge is illuminated for national holidays and public events, making it a focal point of city celebrations.",
-        "conservationEfforts": "The bridge is maintained by Russian authorities, with regular inspections to ensure its safety and aesthetic appeal.",
-        "faq": [
-            {
-                "question": "When was Zhivopisny Bridge built?",
-                "answer": "Zhivopisny Bridge was completed in 2007 and officially opened to traffic on December 7, 2007."
-            },
-            {
-                "question": "Why is Zhivopisny Bridge famous?",
-                "answer": "Zhivopisny Bridge is famous for its unique design and stunning aesthetic, featuring a prominent arch and a vibrant red color. It is a notable landmark in Moscow."
-            },
-            {
-                "question": "How long is Zhivopisny Bridge?",
-                "answer": "Zhivopisny Bridge is approximately 1,180 meters (3,870 feet) long, with a main span of 400 meters (1,312 feet)."
-            },
-            {
-                "question": "What type of bridge is Zhivopisny Bridge?",
-                "answer": "Zhivopisny Bridge is a cable-stayed bridge, characterized by its large arch and cables that support the roadway."
-            },
-            {
-                "question": "Can pedestrians walk across Zhivopisny Bridge?",
-                "answer": "Yes, Zhivopisny Bridge has pedestrian walkways, allowing visitors to walk and enjoy views of the Moskva River and the surrounding area."
-            },
-            {
-                "question": "What makes Zhivopisny Bridge unique?",
-                "answer": "Zhivopisny Bridge is unique for its modern architectural design and striking color, which make it stand out in the Moscow skyline. It is also known for its scenic views of the city and river."
-            },
-            {
-                "question": "Has Zhivopisny Bridge undergone any renovations?",
-                "answer": "Since its opening, Zhivopisny Bridge has not required major renovations but undergoes regular maintenance to ensure its safety and structural integrity."
-            }
-        ],
-        "video": "https://www.youtube.com/embed/Bu74Vd86Cz0",
-        "imgMain": "",
-        "imgCard": "",
-        "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "id": 90,
-        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3247.39640003555!2d133.19740127639636!3d35.51920067263999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x355655b4b13971c1%3A0x86080d4dc4b0fb03!2sEshima%20Ohashi%20Bridge!5e0!3m2!1svi!2s!4v1728724554057!5m2!1svi!2s",
-        "name": "Eshima Ohashi Bridge",
-        "location": "Japan",
-        "category": "High-Level Achievement Bridges",
-        "continent": "Asia",
-        "summary": "A rigid-frame bridge in Japan known for its steep incline and unique design.",
-        "yearCompleted": 2004,
-        "length": 1700,
-        "height": 44,
-        "tall": 44,
-        "type": "Rigid-Frame",
-        "description": "The Eshima Ohashi Bridge is a large rigid-frame bridge that connects the cities of Matsue and Sakaiminato in Japan. It is famous for its steep incline, which gives the bridge a rollercoaster-like appearance. The bridge spans Lake Nakaumi and provides vital transportation links for the region.",
-        "history": "Construction of the Eshima Ohashi Bridge began in 1997 and was completed in 2004. The bridge was built to improve transportation efficiency and replace the ferry services that had previously connected the two cities. Its unique design has made it a point of interest in Japan.",
-        "architecture": "The bridge is 1700 meters long with a main span of 250 meters. Its design includes a steep incline to allow ships to pass underneath while maintaining road access between Matsue and Sakaiminato. The bridge’s concrete structure ensures it can handle heavy traffic loads.",
-        "culturalSignificance": "The Eshima Ohashi Bridge is a symbol of modern Japanese engineering and infrastructure development. Its steep incline has made it a popular subject in media and advertising, drawing tourists and photographers to the area.",
-        "tourismImpact": "The bridge is a popular tourist attraction, particularly for those interested in its unique design. Tourists often visit the bridge to take photos of its steep incline and enjoy views of Lake Nakaumi.",
-        "tourismRevenue": "Tourism revenue related to the Eshima Ohashi Bridge is estimated at ¥10-15 million annually, benefiting local businesses and tour operators.",
-        "eventsAndFestivals": "The bridge is featured in regional events, including charity runs and cycling races that take advantage of its steep incline. It is also illuminated for national holidays and local celebrations.",
-        "conservationEfforts": "The bridge is maintained by Japanese authorities, with regular inspections and repairs to ensure its structural integrity and safety. Conservation efforts focus on protecting the bridge from weathering and seismic activity.",
-        "faq": [
-            {
-                "question": "When was Eshima Ohashi Bridge built?",
-                "answer": "Eshima Ohashi Bridge was completed in 2004 and officially opened to traffic on November 12, 2004."
-            },
-            {
-                "question": "Why is Eshima Ohashi Bridge famous?",
-                "answer": "Eshima Ohashi Bridge is famous for its steep incline, which gives it the appearance of a roller coaster. It is one of the highest bridges in Japan and is known for its unique engineering and design."
-            },
-            {
-                "question": "How long is Eshima Ohashi Bridge?",
-                "answer": "Eshima Ohashi Bridge is approximately 1,440 meters (4,724 feet) long."
-            },
-            {
-                "question": "What type of bridge is Eshima Ohashi Bridge?",
-                "answer": "Eshima Ohashi Bridge is a rigid-frame bridge, characterized by its unique steep gradient and robust structure."
-            },
-            {
-                "question": "Can pedestrians walk across Eshima Ohashi Bridge?",
-                "answer": "Yes, Eshima Ohashi Bridge has pedestrian walkways that allow visitors to walk across and enjoy views of the surrounding area."
-            },
-            {
-                "question": "What makes Eshima Ohashi Bridge unique?",
-                "answer": "Eshima Ohashi Bridge is unique for its steep incline, which allows ships to pass underneath without requiring a drawbridge. Its distinctive design makes it a popular tourist attraction."
-            },
-            {
-                "question": "Has Eshima Ohashi Bridge undergone any renovations?",
-                "answer": "Since its opening, Eshima Ohashi Bridge has not required major renovations but undergoes regular maintenance to ensure its safety and structural integrity."
-            }
-        ],
-        "video": "https://www.youtube.com/embed/Y1dkCRDGnKk",
-        "imgMain": "",
-        "imgCard": "",
-        "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "id": 91,
-        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15833.525004646113!2d112.76918435980723!3d-7.197267934928777!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd80387132ea701%3A0x231edfe371c0aee6!2sSuramadu%20Bridge!5e0!3m2!1svi!2s!4v1728724576624!5m2!1svi!2s",
-        "name": "Suramadu Bridge",
-        "location": "Indonesia",
-        "category": "High-Level Achievement Bridges",
-        "continent": "Asia",
-        "summary": "The longest bridge in Indonesia, connecting the islands of Java and Madura.",
-        "yearCompleted": 2009,
-        "length": 5438,
-        "height": 146,
-        "tall": 146,
-        "type": "Cable-Stayed",
-        "description": "The Suramadu Bridge is the longest bridge in Indonesia, spanning the Madura Strait and connecting the islands of Java and Madura. Completed in 2009, the bridge plays a vital role in the economic development of the Madura region, facilitating trade and transportation.",
-        "history": "Construction of the Suramadu Bridge began in 2003 and was completed in 2009. The bridge was built to improve connectivity and reduce travel time between the islands, significantly boosting trade and tourism in the region.",
-        "architecture": "The bridge is 5438 meters long, with a main span of 434 meters supported by cable-stayed pylons. The bridge’s design includes features that ensure its durability against strong sea currents and frequent seismic activity in the region.",
-        "culturalSignificance": "The Suramadu Bridge is a symbol of Indonesia’s commitment to infrastructure development, particularly in underdeveloped regions like Madura. The bridge has helped accelerate economic growth in the region and has become an iconic landmark in Indonesia.",
-        "tourismImpact": "The bridge attracts tourists traveling between Java and Madura, who often stop to enjoy the views of the Madura Strait. It has also helped increase tourism to Madura Island, making it more accessible to visitors.",
-        "tourismRevenue": "Tourism revenue related to the Suramadu Bridge is estimated at Rp30-40 billion annually, benefiting local businesses and tour operators.",
-        "eventsAndFestivals": "The bridge is illuminated for national holidays and public events, such as Indonesia’s Independence Day. It is also used for cultural and sporting events, including marathons and cycling races.",
-        "conservationEfforts": "The bridge is maintained by Indonesian authorities, with regular inspections and repairs to ensure its safety. Conservation efforts focus on protecting the bridge from environmental wear, particularly due to the region's high seismic activity.",
-        "faq": [
-            {
-                "question": "When was Suramadu Bridge built?",
-                "answer": "Suramadu Bridge was completed in 2009 and officially opened to traffic on June 10, 2009."
-            },
-            {
-                "question": "Why is Suramadu Bridge famous?",
-                "answer": "Suramadu Bridge is famous for being the longest bridge in Indonesia, connecting the islands of Java and Madura over the Madura Strait."
-            },
-            {
-                "question": "How long is Suramadu Bridge?",
-                "answer": "Suramadu Bridge is approximately 5,438 meters (17,841 feet) long."
-            },
-            {
-                "question": "What type of bridge is Suramadu Bridge?",
-                "answer": "Suramadu Bridge is a cable-stayed bridge, characterized by its main towers and cables that support the roadway."
-            },
-            {
-                "question": "Can pedestrians walk across Suramadu Bridge?",
-                "answer": "Yes, Suramadu Bridge has pedestrian walkways, allowing visitors to walk and enjoy views of the Madura Strait and surrounding areas."
-            },
-            {
-                "question": "What makes Suramadu Bridge unique?",
-                "answer": "Suramadu Bridge is unique for its significant length and its role in enhancing transportation and economic development between the islands of Java and Madura."
-            },
-            {
-                "question": "Has Suramadu Bridge undergone any renovations?",
-                "answer": "Since its opening, Suramadu Bridge has not required major renovations but undergoes regular maintenance to ensure its safety and structural integrity."
-            }
-        ],
-        "video": "https://www.youtube.com/embed/9lNqc67HIs4",
-        "imgMain": "",
-        "imgCard": "",
-        "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "id": 92,
-        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2796.256240558566!2d-122.66960482319344!3d45.50492017107465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54950a6ddd94b151%3A0x40f5de053433ee8b!2sTilikum%20Crossing%20Bridge!5e0!3m2!1svi!2s!4v1728724602965!5m2!1svi!2s",
-        "name": "Tilikum Crossing",
-        "location": "Portland, USA",
-        "category": "High-Level Achievement Bridges",
-        "continent": "North America",
-        "summary": "The first major bridge in the USA designed exclusively for public transit, pedestrians, and cyclists.",
-        "yearCompleted": 2015,
-        "length": 523,
-        "height": 24,
-        "tall": 24,
-        "type": "Cable-Stayed",
-        "description": "Tilikum Crossing is a cable-stayed bridge in Portland, Oregon, designed exclusively for public transit, pedestrians, and cyclists. Completed in 2015, it is the first bridge of its kind in the USA, offering a sustainable and eco-friendly transportation option in the city.",
-        "history": "Construction of Tilikum Crossing began in 2011 and was completed in 2015. The bridge was built as part of Portland’s effort to reduce car traffic and encourage more sustainable modes of transportation, aligning with the city’s environmental goals.",
-        "architecture": "The bridge is 523 meters long, with a main span supported by two pylons rising 24 meters above the river. Its design features wide pedestrian and cyclist paths, along with lanes for public transit, including buses and light rail.",
-        "culturalSignificance": "Tilikum Crossing represents Portland’s progressive approach to urban transportation and environmental sustainability. The bridge has become a symbol of the city’s commitment to reducing its carbon footprint and promoting alternative modes of transport.",
-        "tourismImpact": "The bridge attracts both locals and tourists who enjoy walking or cycling across it while taking in views of the Willamette River and the Portland skyline. Its unique purpose has made it a popular destination for visitors interested in sustainable infrastructure.",
-        "tourismRevenue": "Tourism revenue related to Tilikum Crossing is estimated at $5-8 million annually, benefiting local businesses and promoting eco-tourism in Portland.",
-        "eventsAndFestivals": "The bridge is used for cultural events, charity runs, and public celebrations, including the annual Portland Bridge Pedal, where cyclists and pedestrians have exclusive access to the city's bridges.",
-        "conservationEfforts": "The bridge is maintained by Portland’s transportation department, with regular inspections to ensure its safety and sustainability. Conservation efforts focus on maintaining the bridge’s eco-friendly design and minimizing its environmental impact.",
-        "faq": [
-            {
-                "question": "When was Tilikum Crossing built?",
-                "answer": "Tilikum Crossing was completed in 2015 and officially opened to traffic on September 12, 2015."
-            },
-            {
-                "question": "Why is Tilikum Crossing famous?",
-                "answer": "Tilikum Crossing is famous for being the first major bridge in the U.S. that is dedicated exclusively to public transit, pedestrians, and cyclists, with no general vehicle traffic allowed."
-            },
-            {
-                "question": "How long is Tilikum Crossing?",
-                "answer": "Tilikum Crossing is approximately 1,720 feet (523 meters) long."
-            },
-            {
-                "question": "What type of bridge is Tilikum Crossing?",
-                "answer": "Tilikum Crossing is a cable-stayed bridge, characterized by its elegant design and the use of cables that support the roadway."
-            },
-            {
-                "question": "Can pedestrians walk across Tilikum Crossing?",
-                "answer": "Yes, Tilikum Crossing has wide pedestrian and bicycle pathways, making it a popular route for non-motorized traffic."
-            },
-            {
-                "question": "What makes Tilikum Crossing unique?",
-                "answer": "Tilikum Crossing is unique for its design and purpose, serving as a vital transit link while prioritizing non-vehicular traffic. It also features an aesthetically pleasing design that enhances the skyline of Portland."
-            },
-            {
-                "question": "Has Tilikum Crossing undergone any renovations?",
-                "answer": "Since its opening, Tilikum Crossing has not required major renovations but will undergo regular maintenance to ensure its safety and structural integrity."
-            }
-        ],
-        "video": "https://www.youtube.com/embed/VIYPA7jyELs",
-        "imgMain": "",
-        "imgCard": "",
-        "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "id": 93,
-        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2794.614438250221!2d-122.68564782319201!3d45.53796387107536!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5495a759ba3ae14f%3A0x9014fe26b76a82db!2sFremont%20Bridge!5e0!3m2!1svi!2s!4v1728724626734!5m2!1svi!2s",
-        "name": "Fremont Bridge",
-        "location": "Portland, USA",
-        "category": "High-Level Achievement Bridges",
-        "continent": "North America",
-        "summary": "A tied-arch bridge spanning the Willamette River in Portland, Oregon.",
-        "yearCompleted": 1973,
-        "length": 656,
-        "height": 70,
-        "tall": 70,
-        "type": "Tied-Arch",
-        "description": "The Fremont Bridge is a tied-arch bridge in Portland, Oregon, that spans the Willamette River. Completed in 1973, it is one of the city’s most recognizable landmarks, known for its sleek design and importance in the regional transportation network.",
-        "history": "Construction of the Fremont Bridge began in 1970 and was completed in 1973. The bridge was built to accommodate the growing traffic demands in Portland and to provide a crucial link between the city’s east and west sides.",
-        "architecture": "The bridge is 656 meters long, with a main arch rising 70 meters above the river. The tied-arch design allows the bridge to support heavy traffic loads while providing a visually striking structure that has become a key part of Portland’s skyline.",
-        "culturalSignificance": "The Fremont Bridge is a symbol of Portland’s growth and modernization in the mid-20th century. Its distinctive arch has made it a popular subject for photographers and artists, and it remains a key element of the city’s identity.",
-        "tourismImpact": "The bridge attracts tourists who enjoy photographing its distinctive arch and taking in the views of the Willamette River. It is also featured in tours that highlight Portland’s infrastructure and history.",
-        "tourismRevenue": "Tourism revenue related to the Fremont Bridge is estimated at $10-15 million annually, benefiting local businesses and tour operators.",
-        "eventsAndFestivals": "The bridge is included in Portland’s annual Bridge Pedal event, which allows cyclists to cross the city’s bridges. It is also illuminated for national holidays and local celebrations.",
-        "conservationEfforts": "The bridge is maintained by the Oregon Department of Transportation, with regular inspections and repairs to ensure its safety and longevity. Conservation efforts focus on protecting the bridge from weather-related wear and ensuring it remains a vital part of Portland’s transportation network.",
-        "faq": [
-            {
-                "question": "When was Fremont Bridge built?",
-                "answer": "Fremont Bridge was completed in 1973 and officially opened to traffic on April 15, 1973."
-            },
-            {
-                "question": "Why is Fremont Bridge famous?",
-                "answer": "Fremont Bridge is famous for its distinctive design and as one of the major crossings over the Willamette River, providing a critical link for traffic in Portland."
-            },
-            {
-                "question": "How long is Fremont Bridge?",
-                "answer": "Fremont Bridge is approximately 1,700 meters (5,577 feet) long, with a main span of 1,200 feet (366 meters)."
-            },
-            {
-                "question": "What type of bridge is Fremont Bridge?",
-                "answer": "Fremont Bridge is a tied-arch bridge, characterized by its graceful arches that support the roadway."
-            },
-            {
-                "question": "Can pedestrians walk across Fremont Bridge?",
-                "answer": "Yes, Fremont Bridge has pedestrian walkways that allow visitors to walk and enjoy views of the Willamette River and the city of Portland."
-            },
-            {
-                "question": "What makes Fremont Bridge unique?",
-                "answer": "Fremont Bridge is unique for its tied-arch design and its role as a prominent landmark in Portland's skyline. It is also known for its large and colorful arches."
-            },
-            {
-                "question": "Has Fremont Bridge undergone any renovations?",
-                "answer": "Since its opening, Fremont Bridge has undergone regular maintenance and upgrades to ensure its safety and structural integrity."
-            }
-        ],
-        "video": "https://www.youtube.com/embed/YEA_FTqnTto",
-        "imgMain": "",
-        "imgCard": "",
-        "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "id": 94,
-        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3428.6629420714166!2d121.97120607623137!3d30.755967974572986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35ad72a332d9d1df%3A0x143ac686c84c7dcb!2sDonghai%20Bridge!5e0!3m2!1svi!2s!4v1728724650531!5m2!1svi!2s",
-        "name": "Donghai Bridge",
-        "location": "Shanghai, China",
-        "category": "High-Level Achievement Bridges",
-        "continent": "Asia",
-        "summary": "One of the longest sea bridges in the world, connecting Shanghai to Yangshan Port.",
-        "yearCompleted": 2005,
-        "length": 32500,
-        "height": 158,
-        "tall": 158,
-        "type": "Cable-Stayed",
-        "description": "The Donghai Bridge is one of the longest sea-crossing bridges in the world, connecting Shanghai to the offshore deep-water port of Yangshan.",
-        "history": "Construction of the Donghai Bridge began in 2002 and was completed in 2005. It was built to improve access to the Yangshan Port, one of the largest deep-water ports in the world.",
-        "architecture": "The bridge is 32.5 kilometers long and features a cable-stayed design that accommodates large ships passing underneath. It is designed to withstand the harsh conditions of the East China Sea.",
-        "culturalSignificance": "The Donghai Bridge is a symbol of China’s rapid infrastructure development and its growing role in global trade.",
-        "tourismImpact": "The bridge is a popular attraction for visitors interested in engineering and modern infrastructure.",
-        "tourismRevenue": "Tourism revenue related to the Donghai Bridge is estimated at ¥40-50 million annually.",
-        "eventsAndFestivals": "The bridge is occasionally used for public events, including marathons and cycling races.",
-        "conservationEfforts": "The bridge is maintained by Chinese authorities, with regular inspections to ensure its structural integrity in the face of frequent storms and ocean currents.",
-        "faq": [
-            {
-                "question": "When was Donghai Bridge built?",
-                "answer": "Donghai Bridge was completed in 2005 and officially opened to traffic on December 10, 2005."
-            },
-            {
-                "question": "Why is Donghai Bridge famous?",
-                "answer": "Donghai Bridge is famous for being one of the longest sea-crossing bridges in the world, connecting the city of Shanghai with Yangshan Deep-Water Port."
-            },
-            {
-                "question": "How long is Donghai Bridge?",
-                "answer": "Donghai Bridge is approximately 32.5 kilometers (20.2 miles) long."
-            },
-            {
-                "question": "What type of bridge is Donghai Bridge?",
-                "answer": "Donghai Bridge is a cable-stayed bridge, characterized by its tall towers and cables that support the roadway."
-            },
-            {
-                "question": "Can pedestrians walk across Donghai Bridge?",
-                "answer": "No, Donghai Bridge does not have pedestrian walkways; it is primarily designed for vehicular traffic."
-            },
-            {
-                "question": "What makes Donghai Bridge unique?",
-                "answer": "Donghai Bridge is unique for its length and engineering, as well as its strategic role in enhancing the transportation network for the port and the city of Shanghai."
-            },
-            {
-                "question": "Has Donghai Bridge undergone any renovations?",
-                "answer": "Since its opening, Donghai Bridge has not required major renovations but undergoes regular maintenance to ensure its safety and structural integrity."
-            }
-        ],
-        "video": "https://www.youtube.com/embed/K7lqd71x2Q0",
-        "imgMain": "",
-        "imgCard": "",
-        "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "id": 95,
-        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2831.2229227217026!2d20.423501976774684!3d44.79664537107086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475a6fe62167601b%3A0xf4dccb8b4cf9ef4f!2sAda%20Bridge!5e0!3m2!1svi!2s!4v1728724680119!5m2!1svi!2s",
-        "name": "Ada Bridge",
-        "location": "Belgrade, Serbia",
-        "category": "Modern Great Bridges",
-        "continent": "Europe",
-        "summary": "A cable-stayed bridge spanning the Sava River in Belgrade, known for its single pylon design.",
-        "yearCompleted": 2012,
-        "length": 996,
-        "height": 200,
-        "tall": 200,
-        "type": "Cable-Stayed",
-        "description": "The Ada Bridge is a cable-stayed bridge over the Sava River in Belgrade, Serbia. Completed in 2012, the bridge is one of the most prominent landmarks in Belgrade and features a striking design with a single, 200-meter-tall pylon. The bridge was built to alleviate traffic congestion in the city and improve connectivity across the river. It is a key part of Belgrade’s infrastructure and is known for its modern architectural design.",
-        "history": "Construction of the Ada Bridge began in 2008 and was completed in 2012. The bridge was designed as part of a broader urban development plan to improve traffic flow in Belgrade. Its single pylon design is unique in the region, and the bridge quickly became a symbol of the city's modernization efforts.",
-        "architecture": "The Ada Bridge is 996 meters long and features a main span of 376 meters, supported by a single pylon that rises 200 meters above the river. The bridge’s deck carries six lanes of road traffic and pedestrian pathways. The elegant design of the pylon, with cables fanning out to support the deck, makes it one of the most visually striking structures in the region.",
-        "culturalSignificance": "Ada Bridge has become an iconic symbol of Belgrade’s modern architectural landscape. Its prominent location and distinctive design have made it a popular subject for photographers and artists. The bridge also plays a key role in the city’s transportation network, symbolizing Belgrade’s progress and development.",
-        "tourismImpact": "Ada Bridge attracts both locals and tourists who come to admire its design and enjoy views of the Sava River and the city of Belgrade. It is often included in architectural tours of the city, and its modern design contrasts with the historical architecture found in other parts of Belgrade.",
-        "tourismRevenue": "Tourism revenue related to the Ada Bridge is estimated at €5-10 million annually, benefiting local businesses and tour operators who offer guided tours of the bridge and surrounding areas.",
-        "eventsAndFestivals": "The bridge is illuminated during national holidays and special events, making it a focal point for celebrations in Belgrade. It is also used for charity walks and cycling events, attracting participants from across the region.",
-        "conservationEfforts": "The bridge is maintained by Serbian authorities, with regular inspections to ensure its structural integrity. Conservation efforts focus on protecting the bridge from the effects of weather, particularly wind and water erosion, given its location on the Sava River.",
-        "faq": [
-            {
-                "question": "When was Ada Bridge built?",
-                "answer": "Ada Bridge was completed in 2012 and officially opened to traffic on June 1, 2012."
-            },
-            {
-                "question": "Why is Ada Bridge famous?",
-                "answer": "Ada Bridge is famous for its modern design and unique architecture, featuring a single large arch that provides stunning views of the Sava River and the city of Belgrade."
-            },
-            {
-                "question": "How long is Ada Bridge?",
-                "answer": "Ada Bridge is approximately 1,080 meters (3,543 feet) long, with a main span of 96 meters (315 feet)."
-            },
-            {
-                "question": "What type of bridge is Ada Bridge?",
-                "answer": "Ada Bridge is a cable-stayed bridge, characterized by its tall pylons and cables that support the roadway."
-            },
-            {
-                "question": "Can pedestrians walk across Ada Bridge?",
-                "answer": "Yes, Ada Bridge has dedicated pedestrian walkways, allowing visitors to walk and enjoy views of the Sava River and the surrounding areas."
-            },
-            {
-                "question": "What makes Ada Bridge unique?",
-                "answer": "Ada Bridge is unique for its striking design and the significant role it plays in enhancing transportation and connectivity in Belgrade. It also features an innovative lighting system that illuminates the bridge at night."
-            },
-            {
-                "question": "Has Ada Bridge undergone any renovations?",
-                "answer": "Since its opening, Ada Bridge has not required major renovations but undergoes regular maintenance to ensure its safety and structural integrity."
-            }
-        ],
-        "video": "https://www.youtube.com/embed/3fqE6ZUeCBQ",
-        "imgMain": "",
-        "imgCard": "",
-        "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "id": 96,
-        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1464.6792537651843!2d17.479509978016804!3d68.46286078024247!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x45dbbf0a38aeced1%3A0x1d743cb3666cafe4!2sH%C3%A5logaland%20Bridge!5e0!3m2!1svi!2s!4v1728724700768!5m2!1svi!2s",
-        "name": "Hålogaland Bridge",
-        "location": "Narvik, Norway",
-        "category": "Iconic Bridges",
-        "continent": "Europe",
-        "summary": "One of the longest suspension bridges in Norway, crossing the Rombaksfjorden near Narvik.",
-        "yearCompleted": 2018,
-        "length": 1533,
-        "height": 179,
-        "tall": 179,
-        "type": "Suspension",
-        "description": "The Hålogaland Bridge is a stunning suspension bridge located near the town of Narvik in northern Norway. Opened in 2018, it spans the Rombaksfjorden and serves as a vital transportation link for the region. The bridge’s 1,533-meter length makes it one of the longest suspension bridges in Norway, and its modern design enhances both the scenic beauty of the fjord and the surrounding mountains. The bridge reduces travel time between Narvik and surrounding areas, improving access for both locals and tourists alike.",
-        "history": "The construction of the Hålogaland Bridge began in 2013, driven by the need to improve transportation infrastructure in the northern part of Norway. Previously, the region relied on ferries and narrow, winding roads, which made travel slow and often dangerous during the harsh winters. The bridge was designed to withstand the extreme weather conditions of northern Norway, including strong winds and heavy snowfall. After five years of construction, the Hålogaland Bridge was completed and opened to traffic in December 2018.",
-        "architecture": "The Hålogaland Bridge features a main span of 1,145 meters, supported by two pylons that rise 179 meters above the fjord. Its deck is suspended by steel cables, which were manufactured using advanced technology to ensure durability and strength in Norway's challenging climate. The bridge’s towers are designed to blend with the surrounding natural environment, creating a structure that is both functional and aesthetically pleasing. Its sleek and modern design has made it a landmark in the region.",
-        "culturalSignificance": "The Hålogaland Bridge has become an iconic symbol of northern Norway's modernization and its commitment to improving transportation infrastructure. The bridge enhances connectivity between Narvik and surrounding towns, playing a vital role in the region’s economic growth. It is also admired for its architectural beauty, drawing tourists who visit the region to explore Norway’s fjords and natural landscapes. The bridge stands as a testament to Norway’s engineering prowess and its ability to balance modern infrastructure with environmental preservation.",
-        "tourismImpact": "The Hålogaland Bridge has had a significant impact on tourism in northern Norway. It provides easier access to the region’s natural attractions, including the Lofoten Islands and the northern fjords. The bridge itself has become a tourist destination, offering breathtaking views of the fjord and surrounding mountains. Tourists often stop at viewing platforms near the bridge to capture its dramatic silhouette against the natural backdrop. The bridge also improves access to Narvik, a popular destination for outdoor enthusiasts and those seeking to witness the northern lights.",
-        "tourismRevenue": "Since the opening of the Hålogaland Bridge, the region has seen an increase in tourism-related revenue. The improved accessibility has led to a rise in the number of visitors to Narvik and nearby tourist destinations. Local businesses, including hotels, restaurants, and tour operators, have benefited from the influx of tourists who use the bridge to explore the region’s natural beauty. The bridge has also boosted the local economy by facilitating smoother transportation of goods and services between Narvik and other parts of Norway.",
-        "eventsAndFestivals": "The Hålogaland Bridge has become a focal point for community events and festivals in Narvik. During its opening ceremony in 2018, the bridge was illuminated with lights and fireworks, marking the occasion with celebration. The bridge is often featured in local festivals and cultural events, especially during the winter months when the northern lights can be seen dancing above it. The bridge’s design and location make it a popular subject for photographers and artists, who capture its beauty in various forms of media.",
-        "conservationEfforts": "As a modern structure, the Hålogaland Bridge is maintained by the Norwegian Public Roads Administration, which ensures regular inspections and maintenance to preserve the bridge’s structural integrity. Given its location in a harsh climate, special attention is paid to protecting the bridge from the effects of snow, ice, and wind. Environmental impact assessments were conducted during the bridge’s construction to minimize its effect on the surrounding fjord and wildlife. Efforts are ongoing to ensure that the bridge remains a safe and functional part of northern Norway’s infrastructure.",
-        "faq": [
-            {
-                "question": "When was Hålogaland Bridge built?",
-                "answer": "Hålogaland Bridge was completed in 2018 and officially opened to traffic on December 1, 2018."
-            },
-            {
-                "question": "Why is Hålogaland Bridge famous?",
-                "answer": "Hålogaland Bridge is famous for being one of the longest suspension bridges in Norway, connecting the islands of Hinnøya and the mainland across the Vågsfjorden."
-            },
-            {
-                "question": "How long is Hålogaland Bridge?",
-                "answer": "Hålogaland Bridge is approximately 1,533 meters (5,033 feet) long, with a main span of 1,150 meters (3,773 feet)."
-            },
-            {
-                "question": "What type of bridge is Hålogaland Bridge?",
-                "answer": "Hålogaland Bridge is a suspension bridge, characterized by its tall towers and cables that support the roadway."
-            },
-            {
-                "question": "Can pedestrians walk across Hålogaland Bridge?",
-                "answer": "Yes, Hålogaland Bridge has dedicated pedestrian walkways, allowing visitors to walk and enjoy views of the Vågsfjorden and the surrounding scenery."
-            },
-            {
-                "question": "What makes Hålogaland Bridge unique?",
-                "answer": "Hålogaland Bridge is unique for its elegant design and its significance in improving transportation and connectivity in Northern Norway. It also features a visually striking design that complements the natural landscape."
-            },
-            {
-                "question": "Has Hålogaland Bridge undergone any renovations?",
-                "answer": "Since its opening, Hålogaland Bridge has not required major renovations but undergoes regular maintenance to ensure its safety and structural integrity."
-            }
-        ],
-        "video": "https://www.youtube.com/embed/gw-WQyv5SMo",
-        "imgMain": "",
-        "imgCard": "",
-        "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "id": 97,
-        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31629916.478253976!2d-71.85773270565659!3d14.59487111414251!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd59148d2889abef%3A0xffc9b4f5f561282b!2sStone%20Bridge%20Zaragoza!5e0!3m2!1svi!2s!4v1728724723838!5m2!1svi!2s",
-        "name": "Puente de Piedra",
-        "location": "Zaragoza, Spain",
-        "category": "Historical Great Bridges",
-        "continent": "Europe",
-        "summary": "A historic stone bridge over the Ebro River in Zaragoza, Spain, known for its medieval architecture.",
-        "yearCompleted": 1440,
-        "length": 225,
-        "height": 15,
-        "tall": 15,
-        "type": "Stone Arch",
-        "description": "The Puente de Piedra, or Stone Bridge, is a medieval stone arch bridge that spans the Ebro River in Zaragoza, Spain. Built in the 15th century, it has been an essential crossing point for centuries, playing a key role in the city's history. The bridge is renowned for its Gothic arches and its resilience in withstanding floods and natural disasters over the centuries.",
-        "history": "Construction of the Puente de Piedra began in 1401 and was completed in 1440. It replaced several earlier wooden bridges that had been destroyed by floods. The bridge played an important role during the Reconquista and has witnessed numerous historical events, including battles during the Peninsular War. Despite suffering damage from floods over the years, the bridge has been restored and remains a vital part of Zaragoza’s infrastructure.",
-        "architecture": "The Puente de Piedra features six stone arches, with a total length of 225 meters. Its design reflects the Gothic architectural style, with pointed arches and robust piers that have been reinforced over the centuries. The bridge’s solid construction has helped it endure numerous floods and natural events.",
-        "culturalSignificance": "Puente de Piedra is one of Zaragoza’s most iconic landmarks and holds great cultural and historical significance for the region. It has been a central part of the city’s development and is frequently depicted in art and literature. The bridge is also a symbol of the city's resilience, having survived wars and natural disasters.",
-        "tourismImpact": "The bridge is a popular tourist destination, offering views of the Ebro River and the city’s historical skyline. Visitors to Zaragoza often walk across the Puente de Piedra to explore the city’s historical landmarks, including the nearby Basilica of Our Lady of the Pillar.",
-        "tourismRevenue": "Tourism revenue related to the Puente de Piedra is estimated at €10-12 million annually, benefiting local businesses, tour operators, and cultural attractions in Zaragoza.",
-        "eventsAndFestivals": "The bridge is often illuminated during Zaragoza’s cultural festivals and national holidays. It is a key route during processions and parades, particularly during the annual Fiestas del Pilar, one of Spain’s largest festivals.",
-        "conservationEfforts": "The Puente de Piedra has undergone several restorations over the centuries, most recently in the late 20th century. Conservation efforts focus on maintaining the structural integrity of the bridge, particularly in the face of frequent flooding from the Ebro River. The bridge is regularly inspected by local authorities, and efforts are ongoing to preserve its historical significance.",
-        "faq": [
-            {
-                "question": "When was Puente de Piedra built?",
-                "answer": "Puente de Piedra was built in the 15th century and completed in 1492."
-            },
-            {
-                "question": "Why is Puente de Piedra famous?",
-                "answer": "Puente de Piedra is famous for its historical significance as a stone bridge over the Ebro River and for its picturesque views, making it a symbol of Zaragoza."
-            },
-            {
-                "question": "How long is Puente de Piedra?",
-                "answer": "Puente de Piedra is approximately 270 meters (885 feet) long."
-            },
-            {
-                "question": "What type of bridge is Puente de Piedra?",
-                "answer": "Puente de Piedra is a stone arch bridge, characterized by its multiple arches and robust construction."
-            },
-            {
-                "question": "Can pedestrians walk across Puente de Piedra?",
-                "answer": "Yes, Puente de Piedra has pedestrian walkways, allowing visitors to walk and enjoy views of the Ebro River and the city of Zaragoza."
-            },
-            {
-                "question": "What makes Puente de Piedra unique?",
-                "answer": "Puente de Piedra is unique for its blend of historical architecture and cultural significance, serving as an important historical crossing for centuries."
-            },
-            {
-                "question": "Has Puente de Piedra undergone any renovations?",
-                "answer": "Yes, Puente de Piedra has undergone various restorations and maintenance over the years to preserve its structure and historical integrity."
-            }
-        ],
-        "video": "https://www.youtube.com/embed/3PtfkoDXmro",
-        "imgMain": "",
-        "imgCard": "",
-        "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "id": 98,
-        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3702.116936113724!2d96.05524497598286!3d21.891572379982634!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30cb0d287da7099d%3A0x7be9ef84f54d9cf5!2zQ-G6p3UgVSBCZWluLCBNYW5kYWxheSwgTXlhbm1hciAoTWnhur9uIMSQaeG7h24p!5e0!3m2!1svi!2s!4v1728724747614!5m2!1svi!2s",
-        "name": "U Bein Bridge",
-        "location": "Amarapura, Myanmar",
-        "category": "Historical Bridges",
-        "continent": "Asia",
-        "summary": "The longest and oldest teakwood bridge in the world, crossing Taungthaman Lake in Myanmar.",
-        "yearCompleted": 1850,
-        "length": 1200,
-        "height": 3,
-        "tall": 3,
-        "type": "Footbridge",
-        "description": "The U Bein Bridge, located in Amarapura, Myanmar, is the longest and oldest teakwood bridge in the world, stretching 1,200 meters across Taungthaman Lake. Constructed in the mid-19th century, the bridge was built using reclaimed teakwood from the royal palace of Inwa after it was relocated. U Bein Bridge is an iconic symbol of Myanmar and is a popular destination for both locals and tourists, who come to enjoy its picturesque views and cultural significance.",
-        "history": "U Bein Bridge was constructed around 1850 by U Bein, the mayor of Amarapura, using teakwood salvaged from the abandoned royal palace of Inwa. The bridge was built to connect Amarapura with surrounding regions across Taungthaman Lake, which becomes shallow during the dry season. The bridge has withstood the test of time and remains a vital crossing for local people, though it is now mostly used for pedestrian traffic and tourism.",
-        "architecture": "The U Bein Bridge is made of teakwood, with more than 1,000 pillars driven into the bed of Taungthaman Lake. Despite its age and the materials used, the bridge remains remarkably sturdy. Its simple yet effective design has allowed it to stand for over 150 years. The bridge features no railings, and its narrow walkway can become crowded during peak times, but it offers stunning views of the lake, especially at sunrise and sunset.",
-        "culturalSignificance": "U Bein Bridge is a cultural and historical treasure for Myanmar. It is often featured in travel brochures, postcards, and documentaries about the country. The bridge represents a connection not only between two sides of the lake but also between Myanmar's rich past and its present. It is a place where locals and tourists come together, and its image is synonymous with tranquility and tradition.",
-        "tourismImpact": "U Bein Bridge is one of Myanmar’s top tourist attractions, drawing visitors from around the world. Tourists come to walk across the bridge and experience the stunning scenery of Taungthaman Lake. Many also hire boats to view the bridge from the water, especially during sunset, when the bridge is most photogenic. The influx of tourists has had a positive impact on the local economy, with nearby vendors and boat operators benefiting from the increased foot traffic.",
-        "tourismRevenue": "The presence of U Bein Bridge has boosted the local economy by attracting tourists who spend money on local goods, food, and boat tours. The bridge’s iconic status has made it a must-see destination in Myanmar, contributing significantly to the tourism industry in the Amarapura region.",
-        "eventsAndFestivals": "U Bein Bridge is often the site of religious and cultural events, particularly during the dry season when the lake’s water levels drop. Local festivals are held in the surrounding area, and the bridge plays a central role in these celebrations, attracting both locals and visitors alike.",
-        "conservationEfforts": "In recent years, there have been efforts to preserve the U Bein Bridge, as some of the wooden pillars have begun to decay. Conservationists and local authorities are working to replace damaged sections of the bridge with new teakwood to ensure its longevity while maintaining its historical authenticity. Regular maintenance is carried out to keep the bridge safe for pedestrians.",
-        "faq": [
-            {
-                "question": "When was U Bein Bridge built?",
-                "answer": "U Bein Bridge was completed in 1850."
-            },
-            {
-                "question": "Why is U Bein Bridge famous?",
-                "answer": "U Bein Bridge is famous for being the longest teak wood bridge in the world, stretching over 1.2 kilometers (0.75 miles) across the Taungthaman Lake, and is known for its stunning views at sunset."
-            },
-            {
-                "question": "What type of bridge is U Bein Bridge?",
-                "answer": "U Bein Bridge is a wooden footbridge, primarily made of teak wood."
-            },
-            {
-                "question": "Can pedestrians walk across U Bein Bridge?",
-                "answer": "Yes, U Bein Bridge is a pedestrian bridge and is often used by locals and tourists for walking, sightseeing, and photography."
-            },
-            {
-                "question": "What makes U Bein Bridge unique?",
-                "answer": "U Bein Bridge is unique for its historical significance, architectural style, and cultural importance. It is a popular spot for tourists to experience local life and admire the natural beauty of the area."
-            },
-            {
-                "question": "Has U Bein Bridge undergone any renovations?",
-                "answer": "Yes, U Bein Bridge has undergone various maintenance efforts to preserve its structure, particularly due to weathering and increased tourist traffic."
-            }
-        ],
-        "video": "https://www.youtube.com/embed/6GqS2pCUC64",
-        "imgMain": "",
-        "imgCard": "",
-        "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "id": 99,
-        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14241.671381917455!2d111.61255026562175!3d26.826659177174434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x36a1da4d954f9f35%3A0xb626f853fb2ffd37!2zWml5dW4gQnJpZGdlLCBL4buzIMSQw7RuZywgSMOgbmggRMawxqFuZywgSOG7kyBOYW0sIFRydW5nIFF14buRYywgNDI2MTg2!5e0!3m2!1svi!2s!4v1728724794196!5m2!1svi!2s",
-        "name": "Ziyun Bridge",
-        "location": "Hunan, China",
-        "category": "Iconic Bridges",
-        "continent": "Asia",
-        "summary": "A cable-stayed bridge in Hunan province, known for its scenic views and modern design.",
-        "yearCompleted": 2018,
-        "length": 1200,
-        "height": 230,
-        "tall": 230,
-        "type": "Cable-stayed",
-        "description": "The Ziyun Bridge is a modern cable-stayed bridge in Hunan province, China. Spanning 1,200 meters, the bridge is a key transportation link in the region and offers stunning views of the surrounding mountainous landscape. Opened in 2018, the Ziyun Bridge is known for its sleek design and is part of a broader infrastructure project aimed at boosting connectivity in central China.",
-        "history": "Construction of the Ziyun Bridge began in 2015 and was completed in 2018. The project was part of an effort to improve transportation networks in Hunan province, which is known for its mountainous terrain. The bridge was designed to accommodate both vehicle and pedestrian traffic, providing a safe and efficient crossing over the region’s rivers and valleys.",
-        "architecture": "The Ziyun Bridge features a cable-stayed design with two main towers that rise 230 meters above the ground. The bridge has a total length of 1,200 meters and a main span of 600 meters. Its cables and towers are designed to withstand the region’s variable weather conditions, including high winds and seismic activity. The bridge’s elegant design blends harmoniously with the natural landscape, making it a modern engineering marvel.",
-        "culturalSignificance": "The Ziyun Bridge has become a symbol of Hunan province’s modernization efforts. Its construction represents a major step forward in connecting the region’s rural areas with larger cities, boosting economic development. The bridge is also a popular tourist attraction, offering scenic views of the surrounding landscape and attracting visitors from across China.",
-        "tourismImpact": "Although primarily a transportation structure, the Ziyun Bridge has attracted tourists for its impressive design and the breathtaking views it offers. The bridge’s location in a picturesque mountainous region makes it a popular destination for photographers and travelers. Its role in improving access to local attractions has also helped boost the region’s tourism industry.",
-        "tourismRevenue": "The Ziyun Bridge contributes to the local economy by improving access to key tourist destinations in Hunan province. The region has seen an increase in visitor numbers since the bridge’s completion, with tourists spending money on accommodation, food, and other services in nearby towns.",
-        "eventsAndFestivals": "The Ziyun Bridge is often illuminated during public holidays and special events, drawing attention to its modern design and cultural significance. The bridge’s lights reflect beautifully off the surrounding mountains, creating a stunning visual display.",
-        "conservationEfforts": "As a newly built structure, the Ziyun Bridge undergoes regular maintenance to ensure its safety and longevity. Hunan’s local government oversees the bridge’s upkeep, with a focus on preserving its structural integrity while maintaining its aesthetic appeal.",
-        "faq": [
-            {
-                "question": "When was Ziyun Bridge built?",
-                "answer": "Ziyun Bridge was completed in 2016 and officially opened to traffic in December 2016."
-            },
-            {
-                "question": "Why is Ziyun Bridge famous?",
-                "answer": "Ziyun Bridge is famous for being one of the highest bridges in the world, with a height of approximately 300 meters (984 feet) above the Ziyun River."
-            },
-            {
-                "question": "How long is Ziyun Bridge?",
-                "answer": "Ziyun Bridge is approximately 1,200 meters (3,937 feet) long."
-            },
-            {
-                "question": "What type of bridge is Ziyun Bridge?",
-                "answer": "Ziyun Bridge is a cable-stayed bridge, characterized by its tall towers and cables that support the roadway."
-            },
-            {
-                "question": "Can pedestrians walk across Ziyun Bridge?",
-                "answer": "No, Ziyun Bridge does not have pedestrian walkways; it is primarily designed for vehicular traffic."
-            },
-            {
-                "question": "What makes Ziyun Bridge unique?",
-                "answer": "Ziyun Bridge is unique for its impressive height and engineering, showcasing modern bridge construction techniques in a scenic mountainous area."
-            },
-            {
-                "question": "Has Ziyun Bridge undergone any renovations?",
-                "answer": "As a relatively new bridge, Ziyun Bridge has not required major renovations but will undergo regular maintenance to ensure its safety and structural integrity."
-            }
-        ],
-        "video": "https://www.youtube.com/embed/v9r6jVtZ-8M",
-        "imgMain": "",
-        "imgCard": "",
-        "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "id": 100,
-        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3684.6115359219734!2d88.3260817759987!3d22.556220179503406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a02770038f55cd1%3A0x572f93c632510589!2sVidyasagar%20Setu!5e0!3m2!1svi!2s!4v1728724817395!5m2!1svi!2s",
-        "name": "Vidyasagar Setu",
-        "location": "Kolkata, India",
-        "category": "Iconic Bridges",
-        "continent": "Asia",
-        "summary": "The longest cable-stayed bridge in India, connecting Kolkata to Howrah across the Hooghly River. Vidyasagar Setu plays a critical role in alleviating traffic congestion, serving as a key transit route for goods, commuters, and travelers.",
-        "yearCompleted": 1992,
-        "length": 823,
-        "height": 127,
-        "tall": 127,
-        "type": "Cable-stayed",
-        "description": "Vidyasagar Setu, also known as the Second Hooghly Bridge, is the longest cable-stayed bridge in India. Completed in 1992, the bridge spans 823 meters across the Hooghly River, connecting the cities of Kolkata and Howrah. Its impressive structure carries six lanes of traffic and serves as a vital link in Kolkata’s metropolitan transportation network. The bridge was named in honor of Ishwar Chandra Vidyasagar, a distinguished Bengali educator, social reformer, and advocate for women’s rights during the 19th century. Vidyasagar Setu was designed to relieve the immense traffic burden on the adjacent Howrah Bridge, which was unable to keep up with the growing population and industrial expansion of Kolkata. Not only is the bridge an engineering marvel, but it is also a symbolic representation of Kolkata’s modernization and progressive growth in the late 20th century.",
-        "history": "Planning for Vidyasagar Setu began as early as the 1970s in response to the growing traffic and industrial activity in Kolkata. The Howrah Bridge, though iconic and historic, was overburdened by both passenger and freight traffic crossing the Hooghly River between Kolkata and Howrah. A second bridge was deemed essential to accommodate the rising demand. Construction on Vidyasagar Setu began in 1978 after years of design discussions and logistical planning, which included environmental impact assessments and urban planning reviews. The project was spearheaded by the Kolkata Port Trust, with several international contractors contributing their expertise, including engineers from Europe and the United States. The bridge took 14 years to complete due to the complex engineering challenges it posed, particularly because of the heavy river currents and the need for minimal disruption to existing river traffic. When Vidyasagar Setu was completed in 1992, it became one of the most significant engineering projects in India, hailed as a marvel for its use of cutting-edge cable-stayed technology, then rare in the country.",
-        "architecture": "Vidyasagar Setu is a cable-stayed bridge with a total length of 823 meters and a main span of 457 meters, supported by two massive pylons that rise 127 meters above the river. The bridge uses 121 steel cables arranged in a harp-like formation to support its deck. The structure is primarily made of steel and reinforced concrete, designed to withstand the heavy loads of Kolkata’s traffic, which includes trucks, buses, and daily commuters. The bridge was also designed to handle adverse weather conditions, such as high winds and monsoon rains, which are common in the region. Its cables are made of high-tensile steel, imported from Germany, while much of the fabrication and assembly of the bridge components took place in India. The aesthetic appeal of the bridge lies in its sleek, modern design that contrasts with the historical architecture found in much of Kolkata, symbolizing a bridge between the old and the new. Vidyasagar Setu’s architecture is not only functional but also contributes to the city’s skyline, particularly when it is illuminated at night, casting a reflective glow across the Hooghly River.",
-        "culturalSignificance": "Vidyasagar Setu plays a critical role in the cultural and economic life of Kolkata. The bridge not only alleviated traffic pressure on the historic Howrah Bridge but also became a symbol of the city’s progression toward modern infrastructure. The bridge represents the resilience of Kolkata, which, despite its colonial past and economic hardships, continues to grow and modernize. Vidyasagar Setu is frequently mentioned in literature, films, and documentaries about the city, often serving as a metaphor for the balance between tradition and modernity. The bridge is named after Ishwar Chandra Vidyasagar, a revered figure in Bengali history, known for his contributions to education and social reform. His work in advancing women’s rights, particularly in the areas of widow remarriage and female education, makes the bridge’s name particularly poignant in a city known for its intellectual and cultural dynamism. Vidyasagar Setu is also significant during Kolkata’s major festivals, particularly Durga Puja, when the bridge is lit up in vibrant colors and becomes part of the city’s festive landscape.",
-        "tourismImpact": "Vidyasagar Setu has become an important part of Kolkata’s tourism appeal, offering tourists and locals alike stunning views of the Hooghly River and the cityscape. The bridge is a popular spot for photography, particularly at sunset and during the night when the bridge’s lights reflect off the water, creating a picturesque scene. Tourists can often be found on river cruises that pass under the bridge, offering a unique perspective of the bridge’s towering pylons and the busy traffic that crosses it daily. Additionally, the bridge has improved access to several key tourist destinations on both sides of the river. For example, the Howrah side of the river is home to the Howrah Railway Station, one of India’s busiest transportation hubs, while the Kolkata side boasts major attractions such as the Victoria Memorial, St. Paul’s Cathedral, and the Indian Museum. The bridge has facilitated smoother transportation for both domestic and international tourists, making it easier to navigate the sprawling metropolis of Kolkata.",
-        "tourismRevenue": "The presence of Vidyasagar Setu has indirectly contributed to a significant increase in tourism revenue for Kolkata. With easier access to both sides of the Hooghly River, tourists spend more time exploring the city’s historical, cultural, and commercial landmarks. The tourism revenue generated from increased footfall in the areas surrounding the bridge has had a noticeable impact on local businesses, particularly in the hospitality sector. Hotels, restaurants, and markets near the bridge have seen increased patronage from both tourists and locals, further boosting the city’s economy. Additionally, Vidyasagar Setu plays a crucial role in Kolkata’s transport logistics, facilitating easier movement of goods and services across the region, indirectly supporting the city’s economic growth.",
-        "eventsAndFestivals": "Vidyasagar Setu plays an important role in Kolkata’s major public events and festivals. During Durga Puja, one of the city’s largest and most celebrated festivals, the bridge is illuminated with colorful lights, adding to the festive atmosphere. The bridge’s reflection on the river becomes a focal point for photographers and artists alike. Other public holidays such as Diwali, Independence Day, and Republic Day also see the bridge decorated with lights and banners, making it a centerpiece in Kolkata’s celebratory landscape. The annual Kolkata Marathon, which attracts thousands of runners from across India and the world, also passes over Vidyasagar Setu, offering participants a rare chance to experience the bridge’s scale and beauty firsthand. Cultural organizations and local authorities often use the bridge as a backdrop for community events, including concerts, street festivals, and public performances, further embedding the bridge in Kolkata’s cultural identity.",
-        "conservationEfforts": "Given the significance of Vidyasagar Setu to Kolkata’s infrastructure and tourism, maintaining the bridge’s structural integrity is a top priority for local authorities. The Kolkata Metropolitan Development Authority (KMDA) conducts regular inspections and maintenance work on the bridge to ensure it remains safe for the millions of vehicles that cross it each year. In recent years, there have been discussions about implementing a long-term preservation plan to maintain the bridge’s cables and pylons, which have been exposed to the elements since its completion in 1992. The bridge has also been the subject of efforts to reduce traffic congestion by encouraging the use of alternative transport methods such as ferries and public buses. Environmental concerns, particularly regarding the impact of vehicular pollution on the bridge’s structure and the surrounding river ecosystem, have led to initiatives aimed at reducing the environmental footprint of traffic on the bridge. This includes discussions about using more eco-friendly materials in future maintenance work and exploring options for green infrastructure to support sustainable transportation over the bridge.",
-        "faq": [
-            {
-                "question": "When was Vidyasagar Setu built?",
-                "answer": "Vidyasagar Setu was completed in 1992 and officially opened to traffic on October 10, 1992."
-            },
-            {
-                "question": "Why is Vidyasagar Setu famous?",
-                "answer": "Vidyasagar Setu is famous for being one of the longest cable-stayed bridges in India, connecting the city of Kolkata to Howrah over the Hooghly River."
-            },
-            {
-                "question": "How long is Vidyasagar Setu?",
-                "answer": "Vidyasagar Setu is approximately 823 meters (2,700 feet) long."
-            },
-            {
-                "question": "What type of bridge is Vidyasagar Setu?",
-                "answer": "Vidyasagar Setu is a cable-stayed bridge, characterized by its prominent cables and towers that support the roadway."
-            },
-            {
-                "question": "Can pedestrians walk across Vidyasagar Setu?",
-                "answer": "No, Vidyasagar Setu does not have pedestrian walkways; it is primarily designed for vehicular traffic."
-            },
-            {
-                "question": "What makes Vidyasagar Setu unique?",
-                "answer": "Vidyasagar Setu is unique for its architectural design, which is inspired by the Howrah Bridge, and it serves as an important landmark in Kolkata's skyline."
-            },
-            {
-                "question": "Has Vidyasagar Setu undergone any renovations?",
-                "answer": "Since its opening, Vidyasagar Setu has undergone regular maintenance to ensure its safety and structural integrity, but it has not required major renovations."
-            }
-        ],
-        "video": "https://www.youtube.com/embed/lNfGOCBiq7g",
-        "imgMain": "",
-        "imgCard": "",
-        "img": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963292/1_cwwdxv.png",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963283/5_wzceyx.avif",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963282/3_jgwsah.jpg",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963282/4_sqnpwb.avif",
+            "https://res.cloudinary.com/dpwlgnop6/image/upload/v1728963281/2_ogtja4.avif"
         ]
     }
 ]
+

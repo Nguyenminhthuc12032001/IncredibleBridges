@@ -1,26 +1,29 @@
-import { Link } from 'react-router-dom';
-import { useNavigate } from 'react-router-dom';
+import { NavLink, useNavigate } from 'react-router-dom';
 
 function Header({ showContact }) {
+    const navigate = useNavigate();  // Hook to programmatically navigate to different routes
 
-    const navigate = useNavigate();
-
+    // Handle dropdown selection for bridges categories and continents
     const handleBridgesChange = (event) => {
         const Bridges = event.target.value;
-        navigate('/overview', { state: { Bridges } });
+        navigate('/overview', { state: { Bridges } });  // Navigate to the overview page with selected bridge category/continent
     };
 
     return (
         <nav className="navbar navbar-expand-sm bg-dark navbar-dark">
             <div className="container-fluid">
-                <Link className="navbar-brand" to='/'>
-                    Logo
-                </Link>
+                {/* Logo link to home page */}
+                <NavLink className="navbar-brand" to='/'>
+                    <img src={`${process.env.PUBLIC_URL}/logo/logo.png`} className='logo' alt="logo" />
+                </NavLink>
+
+                {/* Navbar toggle button for smaller screens */}
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
                     <span className="navbar-toggler-icon"></span>
                 </button>
-                <div className="collapse navbar-collapse navbar-nav" id="collapsibleNavbar">
 
+                <div className="collapse navbar-collapse navbar-nav" id="collapsibleNavbar">
+                    {/* Dropdown for bridge categories */}
                     <div className="nav-item dropdown">
                         <div className="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown">Category</div>
                         <ul className="dropdown-menu filter">
@@ -31,8 +34,9 @@ function Header({ showContact }) {
                         </ul>
                     </div>
 
+                    {/* Dropdown for bridge continents */}
                     <div className="nav-item dropdown">
-                        <div className="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown">Continent Filter</div>
+                        <div className="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown">Continent</div>
                         <ul className="dropdown-menu filter">
                             <button className="dropdown-item" value="Asia" onClick={handleBridgesChange}>Asia</button>
                             <button className="dropdown-item" value="Europe" onClick={handleBridgesChange}>Europe</button>
@@ -43,11 +47,17 @@ function Header({ showContact }) {
                         </ul>
                     </div>
 
-                    <Link className="nav-item nav-link" to='/bridgelist'>List of Bridges</Link>
+                    {/* Button to show all bridges */}
+                    <button className="nav-item nav-link" value="International Bridges" onClick={handleBridgesChange}>
+                        Bridges
+                    </button>
 
-                    <button className="nav-item nav-link" onClick={showContact}>Contact Us</button>
+                    {/* Nav links to gallery and about us pages */}
+                    <NavLink className="nav-item nav-link" to='/gallery'>Gallery</NavLink>
 
-                    <Link className="nav-item nav-link" to='/aboutus'>About Us</Link>
+                    <NavLink className="nav-item nav-link" to='/aboutus'>
+                        About Us
+                    </NavLink>
 
                 </div>
             </div>

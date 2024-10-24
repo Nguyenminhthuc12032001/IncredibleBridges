@@ -17,8 +17,10 @@ function Detail({ Close, bridgeData, showFAQ }) {
         <div className="con-modal">
             <div className="form-detail">
 
+                {/* Title with bridge name */}
                 <h2><FontAwesomeIcon icon={faBridge} /> {bridgeData.name}</h2>
 
+                {/* List of bridge details such as description, history, etc. */}
                 <ul className="list-detail">
                     <li style={{ backgroundColor: '#212529', color: 'white' }}>
                         <h4><DescriptionIcon /> Description:</h4> {bridgeData.description}
@@ -46,12 +48,14 @@ function Detail({ Close, bridgeData, showFAQ }) {
                     </li>
                 </ul>
 
+                {/* Button to close the modal */}
                 <div className="btn-detail">
                     <button type="button" className="btn" onClick={Close}>
                         <CloseIcon />
                     </button>
                 </div>
 
+                {/* Button to open FAQ modal */}
                 <div className="btn-FAQ">
                     <button type="button" className="btn" onClick={showFAQ}>
                         <HelpIcon />

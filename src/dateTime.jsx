@@ -2,60 +2,79 @@ import { useEffect, useState } from 'react';
 import { AccessTime, CalendarToday, LocationOn } from '@mui/icons-material';
 import VisibilityIcon from '@mui/icons-material/Visibility';
 
+
 function DateTime() {
 
-    const [currentDate, setCurrentDate] = useState('');
-    const [currentTime, setCurrentTime] = useState('');
-    const [userLocation, setUserLocation] = useState('Not determined');
-    const [visitCount, setVisitCount] = useState(0);
+    const [visitCount, setVisitCount] = useState(0);  // State to store visit count
+    const [currentDate, setCurrentDate] = useState('');  // State to store current date
+    const [currentTime, setCurrentTime] = useState('');  // State to store current time
+    const [userLocation, setUserLocation] = useState('Not determined');  // State to store user location
 
     useEffect(() => {
-        // Get current date and time
+        // Function to update date and time every second
         const updateDateTime = () => {
             const date = new Date();
             setCurrentDate(date.toLocaleDateString());
             setCurrentTime(date.toLocaleTimeString());
         };
-        updateDateTime();
-        const intervalId = setInterval(updateDateTime, 1000);
+        updateDateTime();  // Initialize on first render
+        const intervalId = setInterval(updateDateTime, 1000);  // Update every second
 
-        // Get user's location
+        // Get user's geographical location using browser's Geolocation API
         if (navigator.geolocation) {
             navigator.geolocation.getCurrentPosition((position) => {
-                setUserLocation(`Lat: ${position.coords.latitude}, Lon: ${position.coords.longitude}`);
+                const latitude = position.coords.latitude.toFixed(3);
+                const longitude = position.coords.longitude.toFixed(3);
+                const latDirection = latitude >= 0 ? 'N' : 'S';
+                const lonDirection = longitude >= 0 ? 'E' : 'W';
+                setUserLocation(`${Math.abs(latitude)}° ${latDirection}, ${Math.abs(longitude)}° ${lonDirection}`);
             });
         }
 
+        // Cleanup interval on component unmount
         return () => clearInterval(intervalId);
     }, []);
 
     useEffect(() => {
-        // Kiểm tra và cập nhật số lượt truy cập sau khi component render
+        // Update and store visit count in localStorage
         if (localStorage.getItem('visitCount')) {
             let count = parseInt(localStorage.getItem('visitCount'));
             count++;
             localStorage.setItem('visitCount', count);
-            setVisitCount(count);  // Cập nhật state
+            setVisitCount(count);
         } else {
             localStorage.setItem('visitCount', 1);
-            setVisitCount(1);  // Cập nhật state
+            setVisitCount(1);
         }
     }, []);
+
 
     return (
 
         <div className="dateTime">
-            <p className='row'>
-                <div className='col-md-3'><CalendarToday style={{ verticalAlign: 'middle' }} /> Date: {currentDate}</div>
-                <div className='col-md-3'><AccessTime style={{ verticalAlign: 'middle' }} /> Time: {currentTime}</div>
-                <div className='col-md-3'><LocationOn style={{ verticalAlign: 'middle' }} /> Location: {userLocation}</div>
-
-                <div className="col-md-3" id="counter">
-                    <VisibilityIcon />
-                    {visitCount}
+            <div className="row" style={{ fontSize: '0.7em' }}>
+                {/* Display current date */}
+                <div className="col-3">
+                    <CalendarToday style={{ fontSize: '1.2em' }} /> {currentDate}
                 </div>
-            </p>
+
+                {/* Display current time */}
+                <div className="col-3">
+                    <AccessTime style={{ fontSize: '1.2em' }} /> {currentTime}
+                </div>
+
+                {/* Display user location */}
+                <div className="col-3">
+                    <LocationOn style={{ fontSize: '1.2em' }} /> {userLocation}
+                </div>
+
+                {/* Display visit count */}
+                <div className="col-3" id="counter">
+                    <VisibilityIcon style={{ fontSize: '1.2em' }} /> {visitCount}
+                </div>
+            </div>
         </div>
+
     );
 }
 

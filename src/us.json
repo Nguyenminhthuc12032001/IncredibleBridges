@@ -1,0 +1,44 @@
+{
+    "team": {
+        "projectTitle": "Incredible Bridges",
+        "description": "We are a team of passionate developers, designers, and researchers who have come together to create the 'Incredible Bridges' project. Each member brings their own expertise and dedication to ensure the project is a success.",
+        "members": [
+            {
+                "name": "Nguyễn Minh Thức",
+                "studentID": "1580660",
+                "email" : "nguyenminhthuc12032001@gmail.com",
+                "role": "Team Leader",
+                "bio": "Nguyễn Minh Thức oversees the development of the project, coordinating tasks, ensuring deadlines are met, and working closely with all team members to maintain a clear vision for the project."
+            },
+            {
+                "name": "Ngô Tuấn Anh",
+                "studentID": "1575994",
+                "email" : "ngotuananhfpt@gmail.com",
+                "role": "Research & Content Developer",
+                "bio": "Ngô Tuấn Anh specializes in researching historical and technical details about the bridges featured in the project. His role is to gather accurate and engaging information that highlights each bridge’s significance, both culturally and architecturally."
+            },
+            {
+                "name": "Bùi Anh Khoa",
+                "studentID": "1581877",
+                "email" : "anhkhoabui27122007@gmail.com",
+                "role": "UI/UX Designer",
+                "bio": "Bùi Anh Khoa is responsible for the visual design and user experience of the website. He creates intuitive, aesthetically pleasing interfaces to ensure that users can easily navigate and enjoy the content of the 'Incredible Bridges' website."
+            }
+        ]
+    },
+    "projectOverview": {
+        "title": "Incredible Bridges",
+        "description": "Incredible Bridges is a project developed to highlight the most iconic and historical bridges around the world. Our goal is to provide visitors with detailed information about these magnificent structures, including their history, architecture, and cultural significance."
+    },
+    "projectGoals": {
+        "mission": "Our mission is to build a comprehensive, interactive platform where users can explore the world’s most incredible bridges. We aim to combine design and technology to create a seamless experience for users, providing them with in-depth knowledge and stunning visuals."
+    },
+    "contactInfo": {
+        "email": "contact@incrediblebridges.com",
+        "address": "590 Cach Mang Thang 8, Ward 11, District 3, HCMC, Vietnam",
+        "phone" : "+84 842 276 949"
+    },
+    "futureVision": {
+        "vision": "In the future, we plan to expand our website by adding more bridges and interactive features, such as virtual tours and real-time updates on modern engineering marvels."
+    }
+}
