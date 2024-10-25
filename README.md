@@ -1,71 +1,34 @@
-<a href="https://nguyenminhthuc12032001.github.io/abc/">https://nguyenminhthuc12032001.github.io/abc/</a>
-# Getting Started with Create React App
+# eProject Group 3  
+### Class: T1.2406.M1  
+**Center Name**: ACE-HCMC-2-FPT  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Title: Incredible Bridges  
 
-## Available Scripts
+## Overview
+**Incredible Bridges** showcases the world’s most iconic and historic bridges, exploring their architectural marvels and engineering feats. The website provides a comprehensive view of bridges from around the world, highlighting their history, significance, and technical achievements. This platform serves as an informative and visually engaging resource for bridge enthusiasts.
 
-In the project directory, you can run:
+## Group Members
+- **Ngô Tuấn Anh** - *Student1575994*
+- **Bùi Anh Khoa** - *Student1581877*
+- **Nguyễn Minh Thức** - *Student1580660*
 
-### `npm start`
+## Project Demonstration  
+Watch our project in action here: [Incredible Bridges Demo Video](#)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Specifications
+- **Source Code**: `src/components`
+- **Data**: `src/data.json`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Documentation
+Access our documents at [Project Documents](https://github.com/Lukeng01/Group3_IncredibleBridges/tree/master/Document):
+- **Status Report**: `eProject_Status_Report_Incredible_Bridges.xlsx`
+- **Project Report**: `eProject Report-Incredible Bridges-Group 3-Class T1.2406.M1.pdf`
+- **GitHub Guide**: `eProject Git Hub Guide-Group 3-Incredible Bridges`
 
-### `npm test`
+## Installation & Running Locally
+To view the project online, visit: [Incredible Bridges Live Site](https://lukeng01.github.io/Group3_IncredibleBridges/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### To run locally:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/lukeng01/Group3_IncredibleBridges.git
