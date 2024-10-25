@@ -1,5 +1,5 @@
 # eProject Group 3  
-### Class: T1.2406.M1  
+### Class: T1.2406.E1  
 **Center Name**: ACE-HCMC-2-FPT  
 
 ## Project Title: Incredible Bridges  
