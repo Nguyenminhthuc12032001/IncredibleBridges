@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/IncredibleBridges/static/css/main.cbe1ffda.css",
-    "main.js": "/IncredibleBridges/static/js/main.219fdc74.js",
+    "main.css": "/IncredibleBridges/static/css/main.cdbf2f9e.css",
+    "main.js": "/IncredibleBridges/static/js/main.00c51206.js",
     "static/js/453.cbd97a56.chunk.js": "/IncredibleBridges/static/js/453.cbd97a56.chunk.js",
     "static/media/main.jpg": "/IncredibleBridges/static/media/main.efe67c8094f1007367d6.jpg",
     "index.html": "/IncredibleBridges/index.html",
-    "main.cbe1ffda.css.map": "/IncredibleBridges/static/css/main.cbe1ffda.css.map",
-    "main.219fdc74.js.map": "/IncredibleBridges/static/js/main.219fdc74.js.map",
+    "main.cdbf2f9e.css.map": "/IncredibleBridges/static/css/main.cdbf2f9e.css.map",
+    "main.00c51206.js.map": "/IncredibleBridges/static/js/main.00c51206.js.map",
     "453.cbd97a56.chunk.js.map": "/IncredibleBridges/static/js/453.cbd97a56.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbe1ffda.css",
-    "static/js/main.219fdc74.js"
+    "static/css/main.cdbf2f9e.css",
+    "static/js/main.00c51206.js"
   ]
 }
