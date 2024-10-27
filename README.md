@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+eProject group 6
+Class: T1.2406.E1
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+CENTER NAME: ACE-HCMC-2-FPT
 
-## Available Scripts
+Project title: <h1> Incredible Bridges 🌉 </h1>
 
-In the project directory, you can run:
+Welcome to **Incredible Bridges** – a comprehensive platform showcasing some of the world's most famous and awe-inspiring bridges. This project was created as part of our eProject submission, highlighting historical, iconic, and modern bridges with detailed information on their architecture, history, and cultural significance.
 
-### `npm start`
+## Project Team:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Nguyễn Minh Thức - Student1580660
+- Ngô Tuấn Anh - Student1575994
+- Bùi Anh Khoa - Student1581877
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Watch the introduction here: <a href="https://youtu.be/Zku2mRSZja0">[Incredible Bridges Demo Video]</a>
 
-### `npm test`
+## Specifications:
+- Source Code in: src/
+- Data Used in the Project: src/
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Report, Status Report, and GitHub Guide:
+You can find the following three documents in the repository at <a href="https://github.com/Nguyenminhthuc12032001/IncredibleBridges/tree/main/Documents">[Group6_Incredible Bridges Documents]</a>
 
-### `npm run build`
+1. **Status Report**: `eProject_Status_Report_Group6_Incredible Bridges.xls`
+2. **Project Report**: `eProject Report-Group6_Incredible Bridges-final.pdf`
+3. **GitHub Guide**: `eProject GitHub Guide-Group6_Incredible Bridges.pdf`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Live Demo
+You can explore the live version of the project here:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+👉 [Incredible Bridges - Live Demo](https://nguyenminhthuc12032001.github.io/IncredibleBridges/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This link provides direct access to the deployed version of **Incredible Bridges**, allowing users to explore our bridge showcase, including historical, iconic, and modern bridges.
 
-### `npm run eject`
+## Project Overview
+**Incredible Bridges** aims to provide an engaging and informative experience for users interested in learning about the marvels of bridge engineering and design. From ancient structures to modern wonders, this project categorizes bridges by type, history, and geographical significance.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Features
+- **Detailed Bridge Information**: Each bridge page provides details on height, length, location, year completed, architectural style, and cultural significance.
+- **Interactive Map**: Allows users to locate bridges worldwide and view geographical context.
+- **Gallery and Multimedia**: Includes images and videos showcasing each bridge's unique design and significance.
+- **Filtering Options**: Users can filter bridges by continent, type, or historical category.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Technologies Used
+- **Frontend**: HTML5, CSS, Bootstrap, JavaScript, jQuery, React/AngularJS, Figma
+- **Data Store**: JSON files or TXT files
+- **Icons and Visuals**: Custom icons representing continents and bridge types
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## How to Run the Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Nguyenminhthuc12032001/IncredibleBridges.git
+   ```
+2. Open the project folder:
+   ```bash
+   cd IncredibleBridges
+   ```
+3. Install dependencies:
+   ```bash
+   npm install --save-dev
+   ```
+4. Start the development server:
+   ```bash
+   npm start
+   ```
+5. Open the app in your browser by visiting:
+   ```
+   http://localhost:3000
+   ```
+   
+## Acknowledgments
+- This project was created as part of the FPT Aptech eProject requirement. Special thanks to our mentors and peers who provided valuable insights and support.
