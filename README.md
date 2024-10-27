@@ -3,18 +3,18 @@
 <h2>Class: T1.2406.E1</h2>
 <h2>CENTER NAME: ACE-HCMC-2-FPT</h2>
 
+## Project Team:
+
+- Nguyễn Minh Thức - Student1580660
+- Ngô Tuấn Anh - Student1575994
+- Bùi Anh Khoa - Student1581877
+
 <h1>Project title: Incredible Bridges 🌉 </h1>
 
 #### Welcome to **Incredible Bridges** – a comprehensive platform showcasing some of the world's most famous and awe-inspiring bridges. This project was created as part of our eProject submission, highlighting historical, iconic, and modern bridges with detailed information on their architecture, history, and cultural significance.
 
 ## Live Demo: <a href="https://nguyenminhthuc12032001.github.io/IncredibleBridges/" target="_blank" rel="noopener noreferrer">[Incredible Bridges - Live Demo]</a>
 #### This link provides direct access to the deployed version of **Incredible Bridges**, allowing users to explore our bridge showcase, including historical, iconic, and modern bridges.
-
-## Project Team:
-
-- Nguyễn Minh Thức - Student1580660
-- Ngô Tuấn Anh - Student1575994
-- Bùi Anh Khoa - Student1581877
 
 ## Watch the introduction here: <a href="https://youtu.be/Zku2mRSZja0" target="_blank" rel="noopener noreferrer">[Incredible Bridges Demo Video]</a>
 
