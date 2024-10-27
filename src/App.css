@@ -19,7 +19,7 @@
 .navbar {
   position: fixed;
   top: 0;
-  z-index: 1000;
+  z-index: 99;
   width: 100%;
   border-bottom: 1px solid white;
 }
@@ -164,6 +164,8 @@ hr {
   background-color: whitesmoke;
   box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.5);
   padding: 0;
+  max-height: 100vh;
+  overflow-y: auto;
 }
 
 .detail-contact {
@@ -555,7 +557,7 @@ h3 {
   background-color: #212529;
   color: white;
   border-top: 1px solid white;
-  z-index: 999;
+  z-index: 99;
 }
 
 .footer .body {
