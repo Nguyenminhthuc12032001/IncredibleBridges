@@ -13,7 +13,7 @@ function FAQ({ bridgeData, Close }) {
                         bridgeData.faq.map((item, index) => (
                             <li style={index % 2 === 0 ? { backgroundColor: '#212529', color: 'white', textAlign: 'center' } : { textAlign: 'center' }} key={index}>
                                 <h4><HelpIcon /> {item.question}</h4>
-                                {item.answer}
+                                <h6>{item.answer}</h6>
                             </li>
                         ))
                     }
@@ -42,7 +42,7 @@ function Homefaq({ Close }) {
                         faqdata.map((item, index) => (
                             <li style={index % 2 === 0 ? { backgroundColor: '#212529', color: 'white', textAlign: 'center' } : { textAlign: 'center' }} key={index}>
                                 <h4><HelpIcon /> {item.question}</h4>
-                                {item.answer}
+                                <h6>{item.answer}</h6>
                             </li>
                         ))
                     }

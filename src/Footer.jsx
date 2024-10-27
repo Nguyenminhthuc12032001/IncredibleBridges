@@ -37,20 +37,22 @@ function Footer({ showHomefaq, showSiteMap, showFeedback, showContact }) {
 
                 {/* Navigation links for sitemap, feedback, FAQ, and contact */}
                 <div className="contentFooter col-12 col-lg-4" >
-                    <div className="row">
-                        <Link className="col-3 link-light" onClick={showSiteMap} style={{ textDecoration: 'none' }} >
-                            <AccountTree style={{ fontSize: '2em' }} /> <h6>Site Map</h6>
-                        </Link>
 
-                        <Link className="col-3 link-light" onClick={showFeedback} style={{ textDecoration: 'none' }} >
+                    <Link className="link-light siteMap" onClick={showSiteMap} style={{ textDecoration: 'none' }} >
+                        <h6 style={{ fontSize: '0.7em' }}><AccountTree /><br />Site<br />Map</h6>
+                    </Link>
+
+                    <div className="row">
+
+                        <Link className="col-4 link-light" onClick={showFeedback} style={{ textDecoration: 'none' }} >
                             <ChatIcon style={{ fontSize: '2em' }} /> <h6>Feedback</h6>
                         </Link>
 
-                        <Link className="col-3 link-light" onClick={showHomefaq} style={{ textDecoration: 'none' }} >
+                        <Link className="col-4 link-light" onClick={showHomefaq} style={{ textDecoration: 'none' }} >
                             <HelpOutline style={{ fontSize: '2em' }} /> <h6>FAQ</h6>
                         </Link>
-                        
-                        <Link className="col-3 link-light" onClick={showContact} style={{ textDecoration: 'none' }} >
+
+                        <Link className="col-4 link-light" onClick={showContact} style={{ textDecoration: 'none' }} >
                             <ContactMailIcon style={{ fontSize: '2em' }} /> <h6>Contact</h6>
                         </Link>
                     </div>
@@ -84,9 +86,15 @@ function Footer({ showHomefaq, showSiteMap, showFeedback, showContact }) {
                 <div className="contentFooter col-12 col-lg-4" >
                     <div className="address">
                         <div className="row">
-                            <a className="col-4" href="https://aptech.fpt.edu.vn/"><img src={`${process.env.PUBLIC_URL}/logoaptech/logofptaptech.png`} alt="Logo FPT Aptech" /></a>
-                            <a className="col-4" href="https://aptech.vn/"><img src={`${process.env.PUBLIC_URL}/logoaptech/logoaptech.jpeg`} alt="Logo Aptech" /></a>
-                            <Link className="col-4" to='/'><img src={`${process.env.PUBLIC_URL}/logo/logo.png`} alt="" /></Link>
+                            <a className="col-4" href="https://aptech.fpt.edu.vn/" target="_blank" rel="noopener noreferrer">
+                                <img src={`${process.env.PUBLIC_URL}/logoaptech/logofptaptech.png`} alt="Logo FPT Aptech" />
+                            </a>
+                            <a className="col-4" href="https://aptech.vn/" target="_blank" rel="noopener noreferrer">
+                                <img src={`${process.env.PUBLIC_URL}/logoaptech/logoaptech.jpeg`} alt="Logo Aptech" />
+                            </a>
+                            <Link className="col-4" to='/'>
+                                <img src={`${process.env.PUBLIC_URL}/logo/logo.png`} alt="" />
+                            </Link>
                         </div>
                         <p><Email /> support@incrediblebridges.com</p>
                         <p><Phone /> +84 842 276 949</p>

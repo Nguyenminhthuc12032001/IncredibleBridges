@@ -35,11 +35,8 @@ function BackToTopButton() {
     return (
         <>
             {showButton && ( // Conditionally render the button based on showButton state
-                <button
-                    onClick={scrollToTop}
-                    style={styles.backToTopBtn}>
-                    <ArrowDropUpIcon />  {/* Icon for the button */}
-
+                <button className='backToTop' onClick={scrollToTop}>
+                    <ArrowDropUpIcon style={{fontSize: '3em'}} />  {/* Icon for the button */}
                 </button>
             )}
         </>
@@ -48,19 +45,3 @@ function BackToTopButton() {
 
 export default BackToTopButton;
 
-// Styles for the button
-const styles = {
-    backToTopBtn: {
-        position: 'fixed',
-        bottom: '50px',
-        right: '30px',
-        backgroundColor: 'rgba(33, 37, 41, 0.5)',
-        color: 'white',
-        padding: '10px 20px',
-        borderRadius: '5px',
-        cursor: 'pointer',
-        fontSize: '18px',
-        border: '1px solid white',
-        zIndex: 1000,
-    }
-};

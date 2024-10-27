@@ -6,7 +6,14 @@ function Header({ showContact }) {
     // Handle dropdown selection for bridges categories and continents
     const handleBridgesChange = (event) => {
         const Bridges = event.target.value;
+        localStorage.setItem('Bridges', Bridges);  // Save Bridges in localStorage
         navigate('/overview', { state: { Bridges } });  // Navigate to the overview page with selected bridge category/continent
+    };
+
+    const handleGalleryChange = (event) => {
+        const Gallery = event.target.value;
+        localStorage.setItem('Gallery', Gallery);  // Save Gallery in localStorage
+        navigate('/Gallery', { state: { Gallery } });
     };
 
     return (
@@ -53,7 +60,13 @@ function Header({ showContact }) {
                     </button>
 
                     {/* Nav links to gallery and about us pages */}
-                    <NavLink className="nav-item nav-link" to='/gallery'>Gallery</NavLink>
+                    <div className="nav-item dropdown">
+                        <div className="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown">Gallery</div>
+                        <ul className="dropdown-menu filter">
+                            <button className="dropdown-item" value="Image" onClick={handleGalleryChange}>Image</button>
+                            <button className="dropdown-item" value="Video" onClick={handleGalleryChange}>Video</button>
+                        </ul>
+                    </div>
 
                     <NavLink className="nav-item nav-link" to='/aboutus'>
                         About Us

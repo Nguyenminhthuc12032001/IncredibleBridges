@@ -24,23 +24,24 @@
   border-bottom: 1px solid white;
 }
 
-.logo{
+.logo {
   height: 30px;
   object-fit: cover;
 }
 
 .navbar .nav-link {
-transition: background-color 1s ease, color 1s ease;
+  transition: background-color 1s ease, color 1s ease;
 }
 
-.navbar .nav-link:focus, .navbar .nav-link.active {
+.navbar .nav-link:focus,
+.navbar .nav-link.active {
   background-color: rgb(60, 60, 60);
-  color: white; 
+  color: white;
 }
 
 
 .navbar .nav-link:hover {
-  background-color: rgb(60, 60, 60); 
+  background-color: rgb(60, 60, 60);
   color: white;
 }
 
@@ -79,7 +80,7 @@ transition: background-color 1s ease, color 1s ease;
   position: relative;
 }
 
-.con-img-main  .img-Carousel {
+.con-img-main .img-Carousel {
   width: 100%;
   height: 60vh !important;
   object-fit: cover;
@@ -113,6 +114,10 @@ transition: background-color 1s ease, color 1s ease;
 .btn {
   border-radius: 0;
   text-shadow: none;
+}
+
+.btn:hover {
+  color: whitesmoke;
 }
 
 h1,
@@ -264,6 +269,10 @@ li {
     padding: 0px !important;
     margin: 10px 0px !important;
   }
+
+  .form-siteMap {
+    width: 100% !important;
+  }
 }
 
 @media (max-width: 991px) {
@@ -302,6 +311,11 @@ li {
   margin: 20px auto;
   border: none;
   height: 300px;
+  transition: scale 0.2s ease;
+}
+
+.card:hover{
+  scale: 1.025;
 }
 
 .card-img-bottom {
@@ -347,7 +361,8 @@ h5 {
   object-fit: cover;
 }
 
-.form-detail, .form-FAQ {
+.form-detail,
+.form-FAQ {
   width: 50%;
   height: 60%;
   position: relative;
@@ -357,25 +372,28 @@ h5 {
   flex-direction: column;
 }
 
-.form-siteMap{
-  width: 90%;
+.form-siteMap {
+  width: 95%;
   height: 70vh;
   position: relative;
   background-color: #212529;
   color: white;
   text-align: left;
-  border-radius: 20px !important;
   margin: 100px 0;
+  box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.5);
 }
+
 .body-siteMap {
   height: calc(100% - 100px);
   overflow: auto;
   width: 100%;
 }
 
-.title-siteMap{
-  border-top-left-radius: 20px !important;
-  border-top-right-radius: 20px !important;
+.title-siteMap {
+  text-align: center;
+  color: #212529;
+  width: 100%;
+  background-color: white;
 }
 
 .btn-detail {
@@ -479,6 +497,7 @@ h3 {
   color: white;
   transition: background-color 1s ease;
 }
+
 .imgDetail button:hover {
   background-color: #212529;
 }
@@ -558,6 +577,7 @@ h3 {
   0% {
     transform: translateX(100%);
   }
+
   100% {
     transform: translateX(-100%);
   }
@@ -581,7 +601,8 @@ h3 {
 button:hover .arrow-icon {
   transform: translateX(10px);
 }
-.address{
+
+.address {
   width: 100%;
 }
 
@@ -590,19 +611,24 @@ button:hover .arrow-icon {
   width: 100%;
   padding: 20px;
 }
-.con-gallery{
+
+.con-gallery {
   margin-top: 50px;
 }
-.title-gallery{
+
+.title-gallery {
   color: white !important;
 }
+
 .con-gallery .card {
   background-color: #212529;
 }
+
 .con-gallery .titile-card {
   height: 20% !important;
 }
-.con-gallery .card-img-bottom{
+
+.con-gallery .card-img-bottom {
   height: 80% !important;
 }
 
@@ -610,10 +636,50 @@ img:hover {
   cursor: pointer;
 }
 
-.link-light{
-transition: color 0.5s ease;
+.link-light {
+  transition: color 0.5s ease;
 }
 
 .link-light:hover {
   color: darkgray !important;
+}
+
+.backToTop {
+  position: fixed;
+  bottom: 50px;
+  right: 20px;
+  background-color: rgba(33, 37, 41, 0.5);
+  color: white;
+  padding: 0 !important;
+  width: 50px;
+  height: 50px;
+  border-radius: 50% !important;
+  cursor: pointer;
+  border: 1px solid white;
+  z-index: 99;
+  transition: color 0.5s ease, border 0.5s ease, background-color 0.5s ease;
+}
+
+.backToTop:hover {
+  color: gray;
+  border: 1px solid gray;
+  background-color: #212529;
+}
+
+.siteMap{
+  position: fixed;
+  left: 0;
+  bottom: 50px;
+  width: 36px;
+  /* border-radius: 0 18px 18px 0 !important; */
+  background-color: #212529;
+  padding: 30px 5px 30px 5px;
+  box-shadow: 0 0 10px 1px white;
+  opacity: 0.4;
+  transition: opacity 0.5s ease;
+}
+
+.siteMap:hover{
+  opacity: 1;
+  color: white !important;
 }

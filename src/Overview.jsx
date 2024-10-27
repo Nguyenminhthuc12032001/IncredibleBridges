@@ -9,7 +9,8 @@ import LanguageIcon from '@mui/icons-material/Language';
 function Overview({ showDescription, handleOpen }) {
 
     const location = useLocation();
-    const { Bridges } = location.state || {};  // Retrieve selected bridge category or continent from state
+    const Bridges = location.state?.Bridges || localStorage.getItem('Bridges');  
+// Use `Bridges` from location.state if available; otherwise, retrieve it from localStorage for persistence on page refresh
 
     const [list, setList] = useState([]);  // State for the current list of bridges
     const [filteredList, setFilteredList] = useState([]);  // State for the filtered list of bridges
@@ -135,8 +136,8 @@ function Overview({ showDescription, handleOpen }) {
                 </div>
 
                 {/* Dropdown for sorting criteria */}
-                <div className="nav-item dropdown">
-                    <label style={{ fontSize: '1.5em', fontWeight: 'bold' }} className="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown">Sort by:</label>
+                <div className="dropdown">
+                    <label style={{ fontSize: '1.5em', fontWeight: 'bold' }} className="dropdown-toggle" role="button" data-bs-toggle="dropdown">Sort by:</label>
                     <div className="dropdown-menu filter">
                         <button className="dropdown-item" value="ID" onClick={handleSortChange}>ID</button>
                         <button className="dropdown-item" value="NAME" onClick={handleSortChange}>NAME</button>

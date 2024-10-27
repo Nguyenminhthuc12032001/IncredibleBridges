@@ -11,20 +11,21 @@ import PublicIcon from '@mui/icons-material/Public';
 function Homepage({ showDescription, handleOpen }) {
 
     const location = useLocation();
-    const { Bridges } = location.state || {}; // Retrieve the selected bridges from state
-
+    const Bridges = location.state?.Bridges || localStorage.getItem('Bridges');  
+    // Use `Bridges` from location.state if available; otherwise, retrieve it from localStorage for persistence on page refresh
+    
     const [list, setList] = useState(data);  // State to store filtered list of bridges
-    const [selectedContinent, setSelectedContinent] = useState("World");  // State to store selected continent
+    const [selectedContinent, setSelectedContinent] = useState("International Bridges");  // State to store selected continent
 
     // Function to filter bridges by continent
     const handleFilterChange = (continent) => {
         setSelectedContinent(continent);
-        setList(continent === "World" ? data : data.filter(item => item.continent === continent));
+        setList(continent === "International Bridges" ? data : data.filter(item => item.continent === continent));
     };
 
     // Automatically filter bridges based on selected state or default to "World"
     useEffect(() => {
-        handleFilterChange(Bridges || "World");
+        handleFilterChange(Bridges || "International Bridges");
     }, [Bridges]);
 
     // Find the bridge with the highest height
@@ -126,7 +127,7 @@ function Homepage({ showDescription, handleOpen }) {
                 <div className="nav-item dropdown">
                     <h2 style={{ fontSize: '2em', fontWeight: 'bold', padding: '10px', backgroundColor: '#212529', color: 'white' }} className="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"><EngineeringIcon /> Outstanding Bridges</h2>
                     <ul className="dropdown-menu filter">
-                        <button className="dropdown-item" onClick={() => handleFilterChange('World')}>World</button>
+                        <button className="dropdown-item" onClick={() => handleFilterChange('International Bridges')}>International Bridges</button>
                         <button className="dropdown-item" onClick={() => handleFilterChange('Asia')}>Asia</button>
                         <button className="dropdown-item" onClick={() => handleFilterChange('Europe')}>Europe</button>
                         <button className="dropdown-item" onClick={() => handleFilterChange('Africa')}>Africa</button>
