@@ -6,6 +6,9 @@
 <h2>Project title:</h2>
 <h1> Incredible Bridges 🌉 </h1>
 
+## Live Demo: <a href="https://nguyenminhthuc12032001.github.io/IncredibleBridges/" target="_blank" rel="noopener noreferrer">[Incredible Bridges - Live Demo]</a>
+### This link provides direct access to the deployed version of **Incredible Bridges**, allowing users to explore our bridge showcase, including historical, iconic, and modern bridges.
+
 Welcome to **Incredible Bridges** – a comprehensive platform showcasing some of the world's most famous and awe-inspiring bridges. This project was created as part of our eProject submission, highlighting historical, iconic, and modern bridges with detailed information on their architecture, history, and cultural significance.
 
 ## Project Team:
@@ -26,11 +29,6 @@ You can find the following three documents in the repository at: <a href="https:
 1. **Status Report**: `eProject_Status_Report_Group6_Incredible Bridges.xls`
 2. **Project Report**: `eProject Report-Group6_Incredible Bridges-final.pdf`
 3. **GitHub Guide**: `eProject GitHub Guide-Group6_Incredible Bridges.pdf`
-
-## Live Demo
-### You can explore the live version of the project here: <a href="https://nguyenminhthuc12032001.github.io/IncredibleBridges/" target="_blank" rel="noopener noreferrer">[Incredible Bridges - Live Demo]</a>
-
-This link provides direct access to the deployed version of **Incredible Bridges**, allowing users to explore our bridge showcase, including historical, iconic, and modern bridges.
 
 ## Project Overview
 **Incredible Bridges** aims to provide an engaging and informative experience for users interested in learning about the marvels of bridge engineering and design. From ancient structures to modern wonders, this project categorizes bridges by type, history, and geographical significance.
