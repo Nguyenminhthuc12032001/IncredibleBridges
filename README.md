@@ -6,10 +6,10 @@
 <h2>Project title:</h2>
 <h1> Incredible Bridges 🌉 </h1>
 
-## Live Demo: <a href="https://nguyenminhthuc12032001.github.io/IncredibleBridges/" target="_blank" rel="noopener noreferrer">[Incredible Bridges - Live Demo]</a>
-### This link provides direct access to the deployed version of **Incredible Bridges**, allowing users to explore our bridge showcase, including historical, iconic, and modern bridges.
+#### Welcome to **Incredible Bridges** – a comprehensive platform showcasing some of the world's most famous and awe-inspiring bridges. This project was created as part of our eProject submission, highlighting historical, iconic, and modern bridges with detailed information on their architecture, history, and cultural significance.
 
-Welcome to **Incredible Bridges** – a comprehensive platform showcasing some of the world's most famous and awe-inspiring bridges. This project was created as part of our eProject submission, highlighting historical, iconic, and modern bridges with detailed information on their architecture, history, and cultural significance.
+## Live Demo: <a href="https://nguyenminhthuc12032001.github.io/IncredibleBridges/" target="_blank" rel="noopener noreferrer">[Incredible Bridges - Live Demo]</a>
+#### This link provides direct access to the deployed version of **Incredible Bridges**, allowing users to explore our bridge showcase, including historical, iconic, and modern bridges.
 
 ## Project Team:
 
