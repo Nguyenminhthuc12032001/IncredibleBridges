@@ -3,8 +3,7 @@
 <h2>Class: T1.2406.E1</h2>
 <h2>CENTER NAME: ACE-HCMC-2-FPT</h2>
 
-<h2>Project title:</h2>
-<h1> Incredible Bridges 🌉 </h1>
+<h1>Project title: Incredible Bridges 🌉 </h1>
 
 #### Welcome to **Incredible Bridges** – a comprehensive platform showcasing some of the world's most famous and awe-inspiring bridges. This project was created as part of our eProject submission, highlighting historical, iconic, and modern bridges with detailed information on their architecture, history, and cultural significance.
 
