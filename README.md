@@ -1,9 +1,10 @@
-eProject group 6
-Class: T1.2406.E1
+<h1>eProject group 6</h1>
 
-CENTER NAME: ACE-HCMC-2-FPT
+<h2>Class: T1.2406.E1</h2>
+<h2>CENTER NAME: ACE-HCMC-2-FPT</h2>
 
-Project title: <h1> Incredible Bridges 🌉 </h1>
+<h2>Project title:</h2>
+<h1> Incredible Bridges 🌉 </h1>
 
 Welcome to **Incredible Bridges** – a comprehensive platform showcasing some of the world's most famous and awe-inspiring bridges. This project was created as part of our eProject submission, highlighting historical, iconic, and modern bridges with detailed information on their architecture, history, and cultural significance.
 
@@ -29,7 +30,7 @@ You can find the following three documents in the repository at <a href="https:/
 ## Live Demo
 You can explore the live version of the project here:
 
-👉 [Incredible Bridges - Live Demo](https://nguyenminhthuc12032001.github.io/IncredibleBridges/)
+<a href="https://nguyenminhthuc12032001.github.io/IncredibleBridges/">[Incredible Bridges - Live Demo]</a>
 
 This link provides direct access to the deployed version of **Incredible Bridges**, allowing users to explore our bridge showcase, including historical, iconic, and modern bridges.
 
@@ -68,6 +69,6 @@ This link provides direct access to the deployed version of **Incredible Bridges
    ```
    http://localhost:3000
    ```
-   
+
 ## Acknowledgments
 - This project was created as part of the FPT Aptech eProject requirement. Special thanks to our mentors and peers who provided valuable insights and support.
