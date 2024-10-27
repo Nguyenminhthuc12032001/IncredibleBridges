@@ -14,21 +14,21 @@ Welcome to **Incredible Bridges** – a comprehensive platform showcasing some o
 - Ngô Tuấn Anh - Student1575994
 - Bùi Anh Khoa - Student1581877
 
-## Watch the introduction here: <a href="https://youtu.be/Zku2mRSZja0">[Incredible Bridges Demo Video]</a>
+## Watch the introduction here: <a href="https://youtu.be/Zku2mRSZja0" target="_blank">[Incredible Bridges Demo Video]</a>
 
 ## Specifications:
 - Source Code in: src/
 - Data Used in the Project: src/
 
 ## Report, Status Report, and GitHub Guide:
-You can find the following three documents in the repository at <a href="https://github.com/Nguyenminhthuc12032001/IncredibleBridges/tree/main/Documents">[Group6_Incredible Bridges Documents]</a>
+You can find the following three documents in the repository at <a href="https://github.com/Nguyenminhthuc12032001/IncredibleBridges/tree/main/Documents" target="_blank">[Group6_Incredible Bridges Documents]</a>
 
 1. **Status Report**: `eProject_Status_Report_Group6_Incredible Bridges.xls`
 2. **Project Report**: `eProject Report-Group6_Incredible Bridges-final.pdf`
 3. **GitHub Guide**: `eProject GitHub Guide-Group6_Incredible Bridges.pdf`
 
 ## Live Demo
-### You can explore the live version of the project here: <a href="https://nguyenminhthuc12032001.github.io/IncredibleBridges/">[Incredible Bridges - Live Demo]</a>
+### You can explore the live version of the project here: <a href="https://nguyenminhthuc12032001.github.io/IncredibleBridges/" target="_blank">[Incredible Bridges - Live Demo]</a>
 
 
 This link provides direct access to the deployed version of **Incredible Bridges**, allowing users to explore our bridge showcase, including historical, iconic, and modern bridges.
