@@ -28,7 +28,8 @@ You can find the following three documents in the repository at: <a href="https:
 3. **GitHub Guide**: `eProject GitHub Guide-Group6_Incredible Bridges.pdf`
 
 ## Live Demo
-### You can explore the live version of the project here: <a href="https://nguyenminhthuc12032001.github.io/IncredibleBridges/" target="_blank" rel="noopener noreferrer">[Incredible Bridges - Live Demo]</a>
+### You can explore the live version of the project here:  
+[Incredible Bridges - Live Demo](https://nguyenminhthuc12032001.github.io/IncredibleBridges/){:target="_blank" rel="noopener noreferrer"}
 
 
 This link provides direct access to the deployed version of **Incredible Bridges**, allowing users to explore our bridge showcase, including historical, iconic, and modern bridges.
