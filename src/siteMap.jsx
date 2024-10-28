@@ -57,8 +57,8 @@ function SiteMap({ Close }) {
                                 <ul>
                                     {/* Filter buttons for each bridge category */}
                                     <li><h6>
-                                        <button style={{ background: 'none', color: 'white', fontWeight: 'bold' }} onClick={handleFilterChange} value="World">
-                                            World
+                                        <button style={{ background: 'none', color: 'white', fontWeight: 'bold' }} onClick={handleFilterChange} value="International Bridges">
+                                            International Bridges
                                         </button>
                                     </h6></li>
                                     <li><h6>
@@ -163,7 +163,7 @@ function SiteMap({ Close }) {
                     {/* Link to the bridge list page */}
                     <div className="col-xxl-3 col-lg-4 col-md-6">
                         <h2>
-                            <button style={{background: 'none', color: '#dc3545', fontWeight: 'bolder' }} value="International Bridges" onClick={handleBridgesChange}>
+                            <button style={{ background: 'none', color: '#dc3545', fontWeight: 'bolder' }} value="International Bridges" onClick={handleBridgesChange}>
                                 Bridges
                             </button>
                         </h2>
