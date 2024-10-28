@@ -675,7 +675,7 @@ img:hover {
   width: 36px;
   /* border-radius: 0 18px 18px 0 !important; */
   background-color: #212529;
-  padding: 30px 5px 30px 5px;
+  padding: 10px 5px 10px 5px;
   box-shadow: 0 0 10px 1px white;
   opacity: 0.4;
   transition: opacity 0.5s ease;
